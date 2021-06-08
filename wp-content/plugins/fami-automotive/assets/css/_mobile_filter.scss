@@ -1,0 +1,258 @@
+/* Mobile filter on frontend */
+body.has-famiau-popup {
+  overflow: hidden;
+}
+
+.famiau-popup-window {
+  visibility: hidden;
+  transition: visibility 0.4s ease 0s, opacity 0.4s ease 0s;
+  -o-transition: visibility 0.4s ease 0s, opacity 0.4s ease 0s;
+  -webkit-transition: visibility 0.4s ease 0s, opacity 0.4s ease 0s;
+}
+
+.famiau-popup-window.famiau-show-popup {
+  visibility: visible;
+}
+
+.famiau-show-mobile-filter-popup {
+  float: left;
+  background-color: #fff;
+  width: 43px;
+  height: 43px;
+  line-height: 41px;
+  color: #bfbfbf;
+  border: 1px solid #cfcfcf;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.famiau-mobile-filter-frontend-wrap {
+  position: fixed;
+  z-index: 1000000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #333;
+  background-color: #fff;
+  label {
+    color: #333;
+  }
+  .famiau-mega-filter-inner {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .famiau-filter-top-nav {
+    position: relative;
+    height: 40px;
+    border-bottom: 1px solid #dedede;
+    .famiau-back-filter {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1;
+      height: 40px;
+      width: 40px;
+      line-height: 40px;
+      color: #333;
+      text-align: center;
+    }
+    .famiau-top-nav-text {
+      width: 100%;
+      padding-left: 40px;
+      padding-right: 40px;
+      text-align: center;
+      display: block;
+      height: 40px;
+      line-height: 40px;
+    }
+  }
+  .famiau-filter-bottom-nav {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    line-height: 38px;
+    height: 40px;
+    border-top: 1px solid #dedede;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    a {
+      display: block;
+      &:hover {
+        color: #fff;
+        background-color: #eeab10;
+      }
+    }
+  }
+  .famiau-mobile-filter-wrap {
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .famiau-mobile-filter-group {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-bottom: 1px solid #dedede;
+    .part-left {
+      float: left;
+    }
+    .part-right {
+      float: right;
+    }
+    &[data-filter_type="slider"], &[data-filter_type="button"] {
+      cursor: default;
+      .part-left {
+        width: 100%;
+      }
+      .part-right {
+        width: 100%;
+      }
+    }
+    &[data-filter_type="slider"] {
+      .famiau-slider-range-input-wrap {
+        display: none;
+      }
+      .famiau-slider-desc-text {
+        display: none;
+        float: right;
+        &.has-text-desc {
+          display: block;
+        }
+      }
+    }
+    &.famiau-display-flex {
+      .part-left {
+        width: auto;
+      }
+      .part-right {
+        width: auto;
+      }
+    }
+    &:last-child {
+      border-bottom: none;
+    }
+    .famiau-select-popup-result {
+      position: relative;
+      max-width: 170px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+      padding-right: 10px;
+      &.famiau-has-value {
+        color: #eeab10;
+      }
+      &:after {
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index: 1;
+        font-family: FontAwesome;
+        content: "\f105";
+        font-size: 1em;
+        margin-left: 5px;
+      }
+    }
+  }
+  .famiau-group-buttons {
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    float: left;
+    button {
+      text-align: center;
+      border-right: 1px solid #dedede;
+      background-color: #fff;
+      color: #333;
+      height: 36px;
+      line-height: 34px;
+      &.famiau-active-filter {
+        color: #fff;
+        background-color: #eeab10;
+      }
+      &:last-child {
+        border-right: none;
+      }
+    }
+  }
+  .famiau-select-group-inner select {
+    height: 36px;
+    line-height: 34px;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    margin-right: 5px;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+  .famiau-popup-items-wrap {
+    position: fixed;
+    z-index: 1000001;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    .famiau-popup-items {
+      padding: 15px;
+      overflow-x: hidden;
+      overflow-y: visible;
+      max-height: calc(100% - 40px);
+      .famiau-popup-item {
+        margin-left: -15px;
+        margin-right: -15px;
+        margin-bottom: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #dedede;
+        &.famiau-selected-item {
+          &:after {
+            font-family: FontAwesome;
+            content: "\f00c";
+            float: right;
+            color: #eeab10;
+          }
+        }
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+      &.famiau-has-clear-popup-selected {
+        max-height: calc(100% - 80px);
+      }
+    }
+  }
+  .famiau-mobile-filter-actions {
+    display: flex;
+    justify-content: space-between;
+    button {
+      display: inline-block;
+      height: 40px;
+      line-height: 40px;
+      font-size: 14px;
+      color: #ffffff;
+      padding: 0 15px;
+      background: #1b1b1b;
+      border: none;
+      border-radius: 0;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin-bottom: 40px;
+      &:hover {
+        color: #fff;
+        background-color: #eeab10;
+      }
+    }
+  }
+}

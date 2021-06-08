@@ -1,0 +1,1453 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Azirspares Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-18 14:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: includes/admin/welcome.php:264
+msgid " features and elements for your reference."
+msgstr ""
+
+#: includes/admin/welcome.php:272
+msgid " theme, make sure that the feature works as it's designed."
+msgstr ""
+
+#: includes/mapper/includes/shortcode.php:92
+#, php-format
+msgid "%s Reviews"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:811
+msgid "(Item per row on screen resolution of device < 480px)"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:735
+msgid "(Item per row on screen resolution of device >= 1200px and < 1500px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:716
+msgid "(Item per row on screen resolution of device >= 1500px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:792
+msgid "(Item per row on screen resolution of device >=480  add < 768px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:773
+msgid "(Item per row on screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:754
+msgid "(Item per row on screen resolution of device >=992px and < 1200px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:709
+#: includes/frontend/includes/visual-composer.php:728
+#: includes/frontend/includes/visual-composer.php:747
+#: includes/frontend/includes/visual-composer.php:766
+#: includes/frontend/includes/visual-composer.php:785
+#: includes/frontend/includes/visual-composer.php:804
+msgid "1 item"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:838
+msgid "1 Row"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:696
+#: includes/frontend/includes/visual-composer.php:868
+msgid "100px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:687
+#: includes/frontend/includes/visual-composer.php:859
+msgid "10px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:710
+#: includes/frontend/includes/visual-composer.php:729
+#: includes/frontend/includes/visual-composer.php:748
+#: includes/frontend/includes/visual-composer.php:767
+#: includes/frontend/includes/visual-composer.php:786
+#: includes/frontend/includes/visual-composer.php:805
+msgid "2 items"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:839
+msgid "2 Rows"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:688
+#: includes/frontend/includes/visual-composer.php:860
+msgid "20px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:711
+#: includes/frontend/includes/visual-composer.php:730
+#: includes/frontend/includes/visual-composer.php:749
+#: includes/frontend/includes/visual-composer.php:768
+#: includes/frontend/includes/visual-composer.php:787
+#: includes/frontend/includes/visual-composer.php:806
+msgid "3 items"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:840
+msgid "3 Rows"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:689
+#: includes/frontend/includes/visual-composer.php:861
+msgid "30px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:712
+#: includes/frontend/includes/visual-composer.php:731
+#: includes/frontend/includes/visual-composer.php:750
+#: includes/frontend/includes/visual-composer.php:769
+#: includes/frontend/includes/visual-composer.php:788
+#: includes/frontend/includes/visual-composer.php:807
+msgid "4 items"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:841
+msgid "4 Rows"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:690
+#: includes/frontend/includes/visual-composer.php:862
+msgid "40px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:713
+#: includes/frontend/includes/visual-composer.php:732
+#: includes/frontend/includes/visual-composer.php:751
+#: includes/frontend/includes/visual-composer.php:770
+#: includes/frontend/includes/visual-composer.php:789
+#: includes/frontend/includes/visual-composer.php:808
+msgid "5 items"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:842
+msgid "5 Rows"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:691
+#: includes/frontend/includes/visual-composer.php:863
+msgid "50px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:714
+#: includes/frontend/includes/visual-composer.php:733
+#: includes/frontend/includes/visual-composer.php:752
+#: includes/frontend/includes/visual-composer.php:771
+#: includes/frontend/includes/visual-composer.php:790
+#: includes/frontend/includes/visual-composer.php:809
+msgid "6 items"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:843
+msgid "6 Rows"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:692
+#: includes/frontend/includes/visual-composer.php:864
+msgid "60px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:693
+#: includes/frontend/includes/visual-composer.php:865
+msgid "70px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:694
+#: includes/frontend/includes/visual-composer.php:866
+msgid "80px"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:695
+#: includes/frontend/includes/visual-composer.php:867
+msgid "90px"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp-settings.php:126
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Click here to get your Mailchimp API key</a>"
+msgstr ""
+
+#: includes/admin/live-search/widget-livesearch.php:13
+msgid "A widget that displays Live Search Form"
+msgstr ""
+
+#: includes/post-types.php:62 includes/mapper/includes/post-type.php:20
+#: includes/frontend/includes/footer-builder.php:88
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types.php:28
+msgid "Add new"
+msgstr ""
+
+#: includes/post-types.php:63 includes/frontend/includes/footer-builder.php:89
+msgid "Add new footer"
+msgstr ""
+
+#: includes/post-types.php:29
+msgid "Add new menu item"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:21
+msgid "Add new pin mapper"
+msgstr ""
+
+#: includes/mapper/includes/shortcode.php:111
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:184
+msgid "Add your image mapping"
+msgstr ""
+
+#: includes/mapper/includes/shortcode.php:122
+#: includes/mapper/includes/shortcode.php:145
+#: includes/mapper/includes/shortcode.php:163
+msgid "Add your title in backend"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:185
+msgid "Are you sure you want to remove this pin?"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:348
+msgid "Area Text"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:66
+msgid "ASC"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:53
+msgid "Author"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:286
+msgid "auto"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:911
+msgid "AutoPlay"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:920
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:924
+msgid "Autoplay speed in milliseconds"
+msgstr ""
+
+#: includes/frontend/framework.php:82
+msgid "Azirspares Options"
+msgstr ""
+
+#. Name of the plugin
+msgid "Azirspares Toolkit"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-content-page.php:40
+msgid "Azirspares: Content Page"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:59
+msgid "Azirspares: Instagram"
+msgstr ""
+
+#: includes/admin/live-search/widget-livesearch.php:15
+msgid "Azirspares: Live Search"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-newsletter.php:45
+msgid "Azirspares: Newsletter"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:80
+msgid "Azirspares: Post"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-socials.php:48
+msgid "Azirspares: Socials"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:415
+msgid "Background"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:139
+msgid "Blur"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:699
+#: includes/frontend/includes/visual-composer.php:717
+#: includes/frontend/includes/visual-composer.php:736
+#: includes/frontend/includes/visual-composer.php:755
+#: includes/frontend/includes/visual-composer.php:774
+#: includes/frontend/includes/visual-composer.php:793
+#: includes/frontend/includes/visual-composer.php:812
+msgid "Boostrap settings"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:421
+msgid "Border Color"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:407
+msgid "Border Radius"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:401
+msgid "Border Width"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:186
+msgid "Border Zoom"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:953
+#: includes/mapper/templates/admin/form.php:458
+msgid "Bottom"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:951
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:184
+msgid "Bounce In"
+msgstr ""
+
+#: includes/admin/import/import.php:30
+msgid "Burger Icon Menu"
+msgstr ""
+
+#: includes/admin/import/import.php:31
+msgid "Burger List Menu"
+msgstr ""
+
+#: includes/admin/welcome.php:280
+msgid ""
+"Can't find the solution on documentation? We're here to help, even on "
+"weekend. Just click here to start 1on1 chatting with us!"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:848
+#: includes/frontend/includes/visual-composer.php:871
+#: includes/frontend/includes/visual-composer.php:885
+#: includes/frontend/includes/visual-composer.php:899
+#: includes/frontend/includes/visual-composer.php:913
+#: includes/frontend/includes/visual-composer.php:925
+#: includes/frontend/includes/visual-composer.php:940
+#: includes/frontend/includes/visual-composer.php:956
+#: includes/frontend/includes/visual-composer.php:968
+#: includes/frontend/includes/visual-composer.php:981
+#: includes/frontend/includes/visual-composer.php:996
+#: includes/frontend/includes/visual-composer.php:1008
+#: includes/frontend/includes/visual-composer.php:1020
+#: includes/frontend/includes/visual-composer.php:1031
+#: includes/frontend/includes/visual-composer.php:1042
+#: includes/frontend/includes/visual-composer.php:1053
+#: includes/frontend/includes/visual-composer.php:1064
+#: includes/frontend/includes/visual-composer.php:1075
+#: includes/frontend/includes/visual-composer.php:1086
+msgid "Carousel settings"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:40
+msgid "Category"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:952
+msgid "Center"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:70
+msgid "center"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:174
+#: includes/mapper/templates/admin/form.php:195
+msgid "Change Image"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:964
+msgid "Circle"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:57
+msgid "Comment count"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:433
+msgid "Custom popup size"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:248
+msgid "Custom width contain in this screen."
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:79
+msgid "Dark"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:51
+msgid "Date"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:686
+#: includes/frontend/includes/visual-composer.php:858
+#: includes/mapper/templates/admin/form.php:324
+msgid "Default"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:282
+msgid "default"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:65
+msgid "DESC"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-newsletter.php:32
+msgid "Description:"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:209
+#: includes/frontend/includes/visual-composer.php:231
+#: includes/frontend/includes/visual-composer.php:242
+#: includes/frontend/includes/visual-composer.php:250
+#: includes/frontend/includes/visual-composer.php:266
+#: includes/frontend/includes/visual-composer.php:291
+#: includes/frontend/includes/visual-composer.php:300
+#: includes/frontend/includes/visual-composer.php:305
+#: includes/frontend/includes/visual-composer.php:331
+#: includes/frontend/includes/visual-composer.php:347
+msgid "Design Options"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:239
+msgid "Disable Background in this screen."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:237
+msgid "Disable Background?"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-content-page.php:38
+msgid "Display the customer Content Page."
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:57
+msgid "Display the customer Instagram."
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-newsletter.php:43
+msgid "Display the customer Newsletter."
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:78
+msgid "Display the customer Post."
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-socials.php:46
+msgid "Display the customer Socials."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1019
+msgid "Distance( or space) between 2 item"
+msgstr ""
+
+#: includes/admin/welcome.php:263
+msgid "Documentation"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:978
+msgid "Dots"
+msgstr ""
+
+#: includes/post-types.php:64 includes/frontend/includes/footer-builder.php:90
+msgid "Edit footer"
+msgstr ""
+
+#: includes/post-types.php:30
+msgid "Edit menu item"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:22
+msgid "Edit pin mapper"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:174
+msgid "Effect"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:261
+msgid "Em (em)"
+msgstr ""
+
+#. ID
+#: includes/admin/mailchimp/mailchimp-settings.php:76
+msgid "Email Lists"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:315
+msgid "Enter font size."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:299
+msgid "Enter letter spacing."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:316
+msgid "Enter line height."
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:23
+msgid "Enter Title Here"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-newsletter.php:38
+msgid "Enter your email address"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp-settings.php:124
+msgid ""
+"Enter your mail Chimp API key to enable a newsletter signup option with the "
+"registration form."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:202
+#: includes/frontend/includes/visual-composer.php:358
+msgid "Extra class name"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:95
+msgid "Fade In"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp.php:65
+msgid "Failed"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fami Themes"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:375
+msgid "Font Size"
+msgstr ""
+
+#: includes/post-types.php:71 includes/frontend/includes/footer-builder.php:97
+msgid "Footer Builder"
+msgstr ""
+
+#: includes/post-types.php:60 includes/post-types.php:61
+#: includes/frontend/includes/footer-builder.php:86
+#: includes/frontend/includes/footer-builder.php:87
+msgid "Footers"
+msgstr ""
+
+#: includes/admin/welcome.php:279
+msgid "Forum"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:220
+msgid "General"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:35
+#: includes/mapper/templates/admin/form.php:40
+msgid "General Settings"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:47
+msgid "Get Token Instagram Here!"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:140
+msgid "Gray"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:64
+#: includes/mapper/templates/admin/form.php:395
+#: includes/mapper/templates/admin/form.php:444
+msgid "Height"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:284
+msgid "hidden"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:213
+#: includes/frontend/includes/visual-composer.php:364
+msgid "Hidden ID"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/fami_themes"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:221
+msgid "Icon Settings"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:52
+msgid "ID"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:612
+#: includes/frontend/includes/visual-composer.php:646
+msgid "Id"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:42
+msgid "ID Instagram"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:204
+#: includes/frontend/includes/visual-composer.php:360
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:100
+#: includes/mapper/templates/admin/form.php:239
+#: includes/mapper/templates/admin/form.php:355
+msgid "Image"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:175
+#: includes/mapper/templates/admin/form.php:47
+msgid "Image Effect"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:135
+msgid "Image effect"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:165
+msgid "Image Group"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:32
+msgid "Image Resolution"
+msgstr ""
+
+#: includes/admin/welcome.php:27
+msgid "Import Data"
+msgstr ""
+
+#: includes/admin/import/import.php:46
+msgid "Import Demo"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:288
+msgid "inherit"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:995
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:287
+msgid "initial"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:300
+msgid "Input a title for the popup here..."
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:336
+msgid "Input some content for the popup here..."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1030
+#: includes/frontend/includes/visual-composer.php:1041
+#: includes/frontend/includes/visual-composer.php:1052
+#: includes/frontend/includes/visual-composer.php:1063
+#: includes/frontend/includes/visual-composer.php:1074
+#: includes/frontend/includes/visual-composer.php:1085
+msgid "item(s)"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:52
+msgid "Items Instagram"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:706
+#: includes/frontend/includes/visual-composer.php:725
+msgid "Items per row on Desktop"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:744
+msgid "Items per row on landscape tablet"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:782
+#: includes/frontend/includes/visual-composer.php:801
+msgid "Items per row on Mobile"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:763
+msgid "Items per row on portrait tablet"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:71
+msgid "justify"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:456
+msgid "Left"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:68
+msgid "left"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:297
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:78
+msgid "Light"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:253
+msgid "Link"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:315
+msgid "Link To"
+msgstr ""
+
+#: includes/admin/import/import.php:32
+msgid "Listing Menu"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:993
+msgid "Loop"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:35
+msgid "Low Resolution"
+msgstr ""
+
+#. ID
+#: includes/admin/mailchimp/mailchimp-settings.php:67
+msgid "Mail Chimp API Key"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp-settings.php:36
+msgid "Mail Chimp Settings"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp-settings.php:26
+msgid "MailChimp"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp-settings.php:26
+msgid "MailChimp Settings"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1015
+msgid "Margin"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:146
+msgid "Mask color"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:141
+msgid "Mask Overlay"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:262
+msgid "Max Height (vh)"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:263
+msgid "Max Width (vw)"
+msgstr ""
+
+#: includes/post-types.php:26
+msgid "Mega Builder"
+msgstr ""
+
+#: includes/post-types.php:27
+msgid "Mega menu item"
+msgstr ""
+
+#: includes/post-types.php:40
+msgid "Mega Menus."
+msgstr ""
+
+#: includes/post-types.php:37
+msgid "Menu Builder"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:58
+msgid "Menu order"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:923
+#: includes/frontend/includes/visual-composer.php:1006
+msgid "milliseconds"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:55
+msgid "Modified"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:99
+msgid "Name"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:937
+msgid "Navigation"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:947
+msgid "Navigation style"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:961
+msgid "Navigation type"
+msgstr ""
+
+#: includes/post-types.php:65 includes/frontend/includes/footer-builder.php:91
+msgid "New footer"
+msgstr ""
+
+#: includes/post-types.php:31
+msgid "New menu item"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:23
+msgid "New Pin Mapper"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:325
+msgid "New Tab"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:880
+#: includes/frontend/includes/visual-composer.php:894
+#: includes/frontend/includes/visual-composer.php:908
+#: includes/frontend/includes/visual-composer.php:933
+#: includes/frontend/includes/visual-composer.php:974
+#: includes/frontend/includes/visual-composer.php:990
+msgid "No"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:127
+msgid "No image"
+msgstr ""
+
+#: includes/post-types.php:34
+msgid "No menu items found"
+msgstr ""
+
+#: includes/post-types.php:35
+msgid "No menu items found in trash"
+msgstr ""
+
+#: includes/admin/live-search/live-search.php:172
+msgid "No results."
+msgstr ""
+
+#: includes/post-types.php:68 includes/frontend/includes/footer-builder.php:94
+msgid "No template items found"
+msgstr ""
+
+#: includes/post-types.php:69 includes/frontend/includes/footer-builder.php:95
+msgid "No template items found in trash"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:76
+msgid "No user ID specified."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:178
+#: includes/mapper/templates/admin/form.php:94
+#: includes/mapper/templates/admin/form.php:138
+msgid "None"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:67
+msgid "none"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:181
+msgid "Normal Effect"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:182
+msgid "Normal Effect Dark Color"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:183
+msgid "Normal Effect Light Color"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:101
+msgid "Number of Pins"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:179
+msgid "Opacity Effect"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:68
+msgid "Order"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:60
+msgid "Orderby"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:279
+msgid "Overflow"
+msgstr ""
+
+#: includes/post-types.php:36
+msgid "Parent menu item:"
+msgstr ""
+
+#: includes/post-types.php:70 includes/frontend/includes/footer-builder.php:96
+msgid "Parent template item:"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:259
+msgid "Percent (%)"
+msgstr ""
+
+#: includes/admin/welcome.php:36 includes/admin/welcome.php:59
+msgid "Permission denied"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:18
+#: includes/mapper/includes/post-type.php:25
+msgid "Pin Mapper"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:19
+msgid "Pin Mappers"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:211
+msgid "Pin Settings"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1018
+msgid "Pixel"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:260
+msgid "Pixel (px)"
+msgstr ""
+
+#: includes/admin/live-search/widget-livesearch.php:60
+#: includes/frontend/includes/widgets/widget-newsletter.php:37
+msgid "Placeholder Text:"
+msgstr ""
+
+#: includes/admin/live-search/live-search.php:36
+#, php-format
+msgid "Please enter at least %s characters to search"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp.php:26
+#, php-format
+msgid ""
+"Please enter Mail Chimp API Key in <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:186
+msgid "Please input a title for this pin"
+msgstr ""
+
+#: includes/admin/welcome.php:28
+msgid "Plugins"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:185
+msgid "Plus Zoom"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:33
+msgid "Popular Post"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:123
+msgid "Popup border color"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:107
+msgid "Popup border radius"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:115
+msgid "Popup border width"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:84
+msgid "Popup box shadow"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:222
+msgid "Popup Settings"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:91
+msgid "Popup show fffect"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:52
+msgid "Popup size"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:297
+msgid "Popup title"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:452
+msgid "Position"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:73
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:36
+msgid "Posts Type"
+msgstr ""
+
+#: includes/admin/import/import.php:26
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/admin/live-search/live-search.php:33
+msgid "Product Matches"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:56
+msgid "Random"
+msgstr ""
+
+#: includes/admin/welcome.php:266
+msgid "Read Documentation"
+msgstr ""
+
+#: includes/admin/mailchimp/MCAPI.class.php:79
+msgid "Read more about common connectivity issues."
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:34
+msgid "Recent Post"
+msgstr ""
+
+#: includes/admin/welcome.php:282
+msgid "Request Support"
+msgstr ""
+
+#: includes/admin/live-search/live-search.php:34
+msgid "Results"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:455
+msgid "Right"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:69
+msgid "right"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:683
+#: includes/frontend/includes/visual-composer.php:855
+msgid "Rows space"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:180
+msgid "Scale Effect"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:285
+msgid "scroll"
+msgstr ""
+
+#: includes/post-types.php:33
+msgid "Search menu items"
+msgstr ""
+
+#: includes/admin/live-search/live-search.php:266
+msgid "Search products"
+msgstr ""
+
+#: includes/post-types.php:67 includes/frontend/includes/footer-builder.php:93
+msgid "Search template footer"
+msgstr ""
+
+#: includes/admin/live-search/live-search.php:51
+msgid "Security check error!!!"
+msgstr ""
+
+#: includes/admin/welcome.php:274
+msgid "See Video"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:182
+msgid "Select"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-post.php:46
+msgid "Select a category"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-content-page.php:32
+msgid "Select Content"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:339
+msgid "Select font family."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:340
+msgid "Select font styling."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:317
+msgid "Select heading color."
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:1149
+msgid "Select icon"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:306
+#: includes/mapper/templates/admin/form.php:361
+msgid "Select image"
+msgstr ""
+
+#: includes/mapper/includes/shortcode.php:113
+msgid "Select Options"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:183
+msgid "Select or upload an image"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:260
+msgid "Select product"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-socials.php:40
+msgid "Select Social"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:314
+msgid "Select text alignment."
+msgstr ""
+
+#. ID
+#: includes/admin/mailchimp/mailchimp-settings.php:61
+msgid "Settings"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:102
+msgid "Shortcode"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:939
+msgid "Show buton 'next' and 'prev' buttons."
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:280
+msgid "Show description"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:980
+msgid "Show dots buttons."
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:289
+msgid "Show rate"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:271
+msgid "Show thumbnail"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:612
+#: includes/frontend/includes/visual-composer.php:640
+msgid "Sku"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:99
+msgid "Slide From Bottom"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:96
+msgid "Slide From Left"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:97
+msgid "Slide From Right"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:98
+msgid "Slide From Top"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1003
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1007
+msgid "Slide speed in milliseconds"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:965
+msgid "Square"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:36
+msgid "Standard Resolution"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:46
+msgid "Style Settings"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-newsletter.php:69
+msgid "SUBSCRIBE"
+msgstr ""
+
+#. ID
+#: includes/admin/mailchimp/mailchimp-settings.php:83
+msgid "Success message"
+msgstr ""
+
+#: includes/admin/welcome.php:29
+msgid "Support"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:321
+msgid "Target"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:246
+#: includes/mapper/templates/admin/form.php:371
+msgid "Text"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:64
+msgid "Text align"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:381
+msgid "Text Color"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:334
+msgid "Text Content"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Azirspares Toolkit For WordPress Theme WooCommerce Shop."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1038
+msgid ""
+"The items on desktop (Screen resolution of device >= 1200px and < 1500px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1027
+msgid "The items on desktop (Screen resolution of device >= 1500px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1049
+msgid "The items on desktop (Screen resolution of device >= 992px < 1200px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1082
+msgid "The items on mobile (Screen resolution of device < 480px)"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1071
+msgid ""
+"The items on mobile landscape(Screen resolution of device >=480px and < "
+"768px)"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:1060
+msgid "The items on tablet (Screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:846
+msgid "The number of rows which are shown on block"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:34
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:103
+msgid "Time"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:612
+#: includes/frontend/includes/visual-composer.php:644
+#: includes/frontend/includes/widgets/widget-instagram.php:28
+#: includes/frontend/includes/widgets/widget-socials.php:35
+#: includes/frontend/includes/widgets/widget-content-page.php:28
+#: includes/frontend/includes/widgets/widget-post.php:28
+#: includes/frontend/includes/widgets/widget-post.php:54
+#: includes/frontend/includes/widgets/widget-newsletter.php:28
+msgid "Title"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:164
+msgid "Title image"
+msgstr ""
+
+#: includes/admin/live-search/widget-livesearch.php:54
+msgid "Title:"
+msgstr ""
+
+#: includes/post-types.php:74 includes/frontend/includes/footer-builder.php:100
+msgid "To Build Template Footer."
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-newsletter.php:33
+msgid "To stay up-to-date on our promotions, discounts, sales and more"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:46
+msgid "Token Instagram"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:75
+msgid "Tooltip style"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:457
+msgid "Top"
+msgstr ""
+
+#: includes/admin/import/import.php:28
+msgid "Top Left Menu"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:950
+msgid "Top Right"
+msgstr ""
+
+#: includes/admin/import/import.php:29
+msgid "Top Right Menu"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:256
+msgid "Unit"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:329
+msgid "Use font family from the theme."
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:323
+msgid "Use theme default font family?"
+msgstr ""
+
+#: includes/frontend/includes/widgets/widget-instagram.php:82
+msgid "User ID and access token do not match. Please check again."
+msgstr ""
+
+#: includes/admin/import/import.php:27
+msgid "Vertical Menu"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:883
+msgid "Vertical Mode"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:897
+msgid "verticalSwiping"
+msgstr ""
+
+#: includes/admin/welcome.php:271
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/admin/live-search/live-search.php:32
+msgid "View All"
+msgstr ""
+
+#: includes/post-types.php:66 includes/frontend/includes/footer-builder.php:92
+msgid "View footer"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:24
+msgid "View mapper"
+msgstr ""
+
+#: includes/post-types.php:32
+msgid "View menu item"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:283
+msgid "visible"
+msgstr ""
+
+#: includes/admin/welcome.php:26
+msgid "Welcome"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:55
+#: includes/mapper/templates/admin/form.php:389
+#: includes/mapper/templates/admin/form.php:436
+msgid "Width"
+msgstr ""
+
+#: includes/mapper/templates/admin/form.php:232
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/frontend/includes/visual-composer.php:240
+#: includes/frontend/includes/visual-composer.php:326
+#: includes/frontend/includes/visual-composer.php:879
+#: includes/frontend/includes/visual-composer.php:893
+#: includes/frontend/includes/visual-composer.php:907
+#: includes/frontend/includes/visual-composer.php:934
+#: includes/frontend/includes/visual-composer.php:975
+#: includes/frontend/includes/visual-composer.php:989
+msgid "Yes"
+msgstr ""
+
+#: includes/mapper/includes/post-type.php:184
+msgid "Your changes on this page are not saved!"
+msgstr ""
+
+#: includes/admin/mailchimp/mailchimp.php:56
+msgid "Your email added..."
+msgstr ""

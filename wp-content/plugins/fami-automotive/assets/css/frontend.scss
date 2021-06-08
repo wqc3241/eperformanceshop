@@ -1,0 +1,325 @@
+@import "famiau-animate";
+@import "mobile_filter";
+
+.famiau-content-wrap * {
+  box-sizing: border-box;
+}
+
+.famiau-content-wrap {
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+
+.famiau-container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 100%;
+}
+
+@media (min-width: 768px) {
+  .famiau-container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .famiau-container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .famiau-container {
+    width: 1170px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .famiau-container {
+    width: 1440px;
+  }
+}
+
+.famiau-display-flex {
+  display: flex !important;
+  &.famiau-justify-content-space-between {
+    justify-content: space-between;
+  }
+  &.famiau-align-items-center {
+    align-items: center;
+  }
+}
+
+.famiau-btn, .famiau-button {
+  display: inline-block;
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+  color: #ffffff;
+  padding: 0 15px;
+  background-color: #1b1b1b;
+  border: none;
+  border-radius: 0;
+  -webkit-transition: color 0.25s, border-color 0.25s, background-color 0.25s, opacity 0.25s, width 0.25s ease 0s;
+  -moz-transition: color 0.25s, border-color 0.25s, background-color 0.25s, opacity 0.25s, width 0.25s ease 0s;
+  -o-transition: color 0.25s, border-color 0.25s, background-color 0.25s, opacity 0.25s, width 0.25s ease 0s;
+  transition: color 0.25s, border-color 0.25s, background-color 0.25s, opacity 0.25s, width 0.25s ease 0s;
+  &:hover {
+    background-color: #eeab10;
+  }
+}
+
+.famiau-hidden {
+  display: none !important;
+}
+
+.famiau-my-listing-wrap {
+  .famiau-add-new-listing-form-wrap {
+    display: none;
+    &.show {
+      display: block;
+    }
+  }
+}
+
+/* Listing dropdown */
+.famiau-listting-dropdown-wrap {
+  .famiau-listing-title {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 36px;
+  }
+  .famiau-filter-box {
+    margin-bottom: 10px;
+    select {
+      width: 100%;
+      border: 1px solid #dadada;
+    }
+  }
+  .famiau-select-min-max-group {
+    .famiau-select-group-inner {
+      border: 1px solid #dadada;
+    }
+    select {
+      width: 50%;
+      border: none;
+      border-right: 1px solid #dadada;
+      &:last-child {
+        border-right: none;
+      }
+    }
+  }
+  .row {
+    margin-left: -5px;
+    margin-right: -5px;
+    [class*="col-"] {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+}
+
+/* Tabs nav */
+.famiau-tabs-nav {
+  li {
+    list-style: none;
+  }
+}
+
+.famiau-acc-tab-content {
+  display: none;
+  &.active {
+    display: block;
+    overflow: hidden;
+  }
+}
+
+.famiau-warning-message-wrap {
+  color: #d9534f;
+  border: 1px solid #d9534f;
+  padding: 5px 10px;
+  text-align: center;
+  a {
+    color: inherit;
+  }
+}
+
+/* Upload media (imgs) */
+.famiau-imgs-preview-wrap {
+  display: block;
+  margin-left: -15px;
+  margin-right: -15px;
+  .famiau-img-preview-wrap {
+    float: left;
+    padding: 0 15px;
+    margin-bottom: 15px;
+    width: 20%;
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.famiau-field {
+  &.famiau-error {
+    border-color: #d9534f;
+  }
+}
+
+.famiau-phone-mask-wrap {
+  .famiau-show-number {
+    cursor: pointer;
+  }
+}
+
+.famiau-single-listing-map-wrap {
+  .famiau-map {
+    width: 100%;
+    height: 270px;
+  }
+}
+
+.famiau-listings-wrap {
+  .famiau-listings {
+    .famiau-message-wrap {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+  &.processing {
+    &:before {
+      content: '';
+      position: fixed;
+      bottom: 20px;
+      right: 27px;
+      width: 40px;
+      height: 40px;
+      z-index: 10;
+      background: url(../images/earth-globe-map-spinner.svg) transparent center center no-repeat;
+      background-size: cover;
+    }
+  }
+}
+
+/* Map Listings */
+.famiau-map-filters-wrap {
+  .famiau-form-inner {
+    position: relative;
+    .famiau-close-open-map-filter {
+      position: absolute;
+      top: 50%;
+      right: -30px;
+      z-index: 1;
+      background-color: #fff;
+      &:before {
+        font-family: 'FontAwesome';
+        display: inline-block;
+        width: 30px;
+        height: 50px;
+      }
+      &.famiau-filter-open {
+        &:before {
+          content: '\f053';
+        }
+      }
+      &.famiau-filter-close {
+        &:before {
+          content: '\f054';
+        }
+      }
+    }
+  }
+}
+
+.famiau-map-filters {
+  position: relative;
+  &.processing {
+    .famiau-listings-map-display {
+      &:before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        background: url(../images/earth-globe-map-spinner.svg) rgba(255, 255, 255, 0.4) center center no-repeat;
+      }
+    }
+  }
+}
+
+.famiau-listings-map-display {
+  width: 100%;
+  min-height: 500px;
+  .famiau-map-info-wrap {
+    .famiau-map-info-inner {
+      position: relative;
+    }
+    .famiau-car-info-title {
+      display: block;
+      max-width: 300px;
+      overflow: hidden;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 20px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .famiau-car-status {
+      font-size: 13px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #fff;
+      display: inline-block;
+      padding: 0 10px;
+      min-width: 63px;
+      height: 32px;
+      line-height: 32px;
+      text-align: center;
+      background-color: #eeab10;
+      &.famiau-car-status-new {
+        background-color: #dd161f;
+      }
+      &.famiau-car-status-used {
+        background-color: #38ce62;
+      }
+    }
+    .famiau-car-img-wrap {
+      float: left;
+      margin-right: 10px;
+    }
+    .famiau-car-price-wrap {
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 1;
+      background-color: #eeab10;
+      color: #fff;
+      height: 32px;
+      line-height: 32px;
+      padding-left: 10px;
+      padding-right: 10px;
+      font-size: 14px;
+    }
+    .famiau-feature-wrap {
+      .famiau-feature {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        font-size: 13px;
+        color: #000;
+        position: relative;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        text-transform: capitalize;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+  }
+}
+

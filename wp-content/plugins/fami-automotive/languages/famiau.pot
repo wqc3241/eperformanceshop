@@ -1,0 +1,3256 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fami Automotive Listings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-23 08:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1"
+
+#: includes/helpers.php:1088
+msgid " --- No fuel type to select --- "
+msgstr ""
+
+#: fami-automotive.php:445 includes/helpers.php:769
+msgid " --- No item to select --- "
+msgstr ""
+
+#: includes/helpers.php:1051
+msgid " --- No model to select --- "
+msgstr ""
+
+#: includes/helpers.php:1090
+msgid " --- Select fuel type --- "
+msgstr ""
+
+#: includes/helpers.php:770
+msgid " --- Select item --- "
+msgstr ""
+
+#: includes/helpers.php:1053
+msgid " --- Select model --- "
+msgstr ""
+
+#: fami-automotive.php:446
+msgid " --- Select option --- "
+msgstr ""
+
+#. 1: currency name 2: currency symbol, 3: currency code
+#: includes/admin-pages/famiau.php:276
+#, php-format
+msgid "%1$s (%2$s / %3$s)"
+msgstr ""
+
+#. 1: currency name 2: currency code
+#: includes/admin-pages/famiau.php:273
+#, php-format
+msgid "%1$s (%2$s)"
+msgstr ""
+
+#: includes/helpers.php:1265
+#, php-format
+msgid "%s*******"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:792
+msgid "(Item per row on screen resolution of device < 480px)"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:712
+msgid "(Item per row on screen resolution of device >= 1200px and < 1500px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:692
+msgid "(Item per row on screen resolution of device >= 1500px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:772
+msgid "(Item per row on screen resolution of device >=480  add < 768px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:752
+msgid "(Item per row on screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:732
+msgid "(Item per row on screen resolution of device >=992px and < 1200px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:685
+#: bakery-page-builder/famiauVisualComposer.php:705
+#: bakery-page-builder/famiauVisualComposer.php:725
+#: bakery-page-builder/famiauVisualComposer.php:745
+#: bakery-page-builder/famiauVisualComposer.php:765
+#: bakery-page-builder/famiauVisualComposer.php:785
+msgid "1 item"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:819
+msgid "1 Row"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:671
+#: bakery-page-builder/famiauVisualComposer.php:850
+msgid "100px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:662
+#: bakery-page-builder/famiauVisualComposer.php:841
+msgid "10px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:686
+#: bakery-page-builder/famiauVisualComposer.php:706
+#: bakery-page-builder/famiauVisualComposer.php:726
+#: bakery-page-builder/famiauVisualComposer.php:746
+#: bakery-page-builder/famiauVisualComposer.php:766
+#: bakery-page-builder/famiauVisualComposer.php:786
+msgid "2 items"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:820
+msgid "2 Rows"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:663
+#: bakery-page-builder/famiauVisualComposer.php:842
+msgid "20px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:687
+#: bakery-page-builder/famiauVisualComposer.php:707
+#: bakery-page-builder/famiauVisualComposer.php:727
+#: bakery-page-builder/famiauVisualComposer.php:747
+#: bakery-page-builder/famiauVisualComposer.php:767
+#: bakery-page-builder/famiauVisualComposer.php:787
+msgid "3 items"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:821
+msgid "3 Rows"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:664
+#: bakery-page-builder/famiauVisualComposer.php:843
+msgid "30px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:688
+#: bakery-page-builder/famiauVisualComposer.php:708
+#: bakery-page-builder/famiauVisualComposer.php:728
+#: bakery-page-builder/famiauVisualComposer.php:748
+#: bakery-page-builder/famiauVisualComposer.php:768
+#: bakery-page-builder/famiauVisualComposer.php:788
+msgid "4 items"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:822
+msgid "4 Rows"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:665
+#: bakery-page-builder/famiauVisualComposer.php:844
+msgid "40px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:689
+#: bakery-page-builder/famiauVisualComposer.php:709
+#: bakery-page-builder/famiauVisualComposer.php:729
+#: bakery-page-builder/famiauVisualComposer.php:749
+#: bakery-page-builder/famiauVisualComposer.php:769
+#: bakery-page-builder/famiauVisualComposer.php:789
+msgid "5 items"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:823
+msgid "5 Rows"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:666
+#: bakery-page-builder/famiauVisualComposer.php:845
+msgid "50px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:690
+#: bakery-page-builder/famiauVisualComposer.php:710
+#: bakery-page-builder/famiauVisualComposer.php:730
+#: bakery-page-builder/famiauVisualComposer.php:750
+#: bakery-page-builder/famiauVisualComposer.php:770
+#: bakery-page-builder/famiauVisualComposer.php:790
+msgid "6 items"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:824
+msgid "6 Rows"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:667
+#: bakery-page-builder/famiauVisualComposer.php:846
+msgid "60px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:668
+#: bakery-page-builder/famiauVisualComposer.php:847
+msgid "70px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:669
+#: bakery-page-builder/famiauVisualComposer.php:848
+msgid "80px"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:670
+#: bakery-page-builder/famiauVisualComposer.php:849
+msgid "90px"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:342
+msgid "Account creation"
+msgstr ""
+
+#: templates/account/famiau-navigation.php:34
+msgid "Account Details"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:160
+msgid "Account Page"
+msgstr ""
+
+#: includes/filter-functions.php:996
+msgid "Actions"
+msgstr ""
+
+#: includes/helpers.php:15
+msgid "Add Car Body"
+msgstr ""
+
+#: includes/helpers.php:33 includes/helpers.php:43
+msgid "Add Color"
+msgstr ""
+
+#: includes/helpers.php:24
+msgid "Add Drive"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:399
+msgid "Add Fuel Type"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:366
+msgid "Add Make"
+msgstr ""
+
+#: includes/post-types.php:28 includes/helpers.php:65 includes/helpers.php:67
+#: includes/helpers.php:75 includes/helpers.php:77 includes/helpers.php:85
+#: includes/helpers.php:87 includes/helpers.php:95 includes/helpers.php:97
+#: includes/helpers.php:105 includes/helpers.php:107 includes/helpers.php:115
+#: includes/helpers.php:117
+msgid "Add New"
+msgstr ""
+
+#: includes/helpers.php:17
+msgid "Add New Car Body"
+msgstr ""
+
+#: includes/post-types.php:104
+msgid "Add New Category"
+msgstr ""
+
+#: includes/helpers.php:35 includes/helpers.php:45
+msgid "Add New Color"
+msgstr ""
+
+#: fami-automotive.php:613 includes/helpers.php:687
+msgid "Add New Description"
+msgstr ""
+
+#: includes/helpers.php:26
+msgid "Add New Drive"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:405
+msgid "Add New Fuel Type"
+msgstr ""
+
+#: fami-automotive.php:576
+msgid "Add New Group"
+msgstr ""
+
+#: includes/post-types.php:27 templates/account/famiau-my-listings.php:16
+msgid "Add New Listing"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:372
+msgid "Add New Make"
+msgstr ""
+
+#: includes/helpers.php:628
+msgid "Add New Model"
+msgstr ""
+
+#: includes/helpers.php:136 includes/helpers.php:138
+msgid "Add New Suggestions"
+msgstr ""
+
+#: includes/post-types.php:109
+msgid "Add or remove categories"
+msgstr ""
+
+#: fami-automotive.php:43 fami-automotive.php:55
+msgid "Add to cart"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:285
+msgid "Add Video"
+msgstr ""
+
+#: templates/listing-form/famiau-video-links.php:22
+msgid "Add Youtube video or Vimeo video url"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:395
+msgid "Add/Edit list of fuel types"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:362
+msgid "Add/Edit list of manufacturers"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:236
+msgid "Address"
+msgstr ""
+
+#: templates/content-single-famiau.php:66
+#, php-format
+msgid "Address: %s"
+msgstr ""
+
+#: includes/currencies.php:30
+msgid "Afghan afghani"
+msgstr ""
+
+#: includes/currencies.php:31
+msgid "Albanian lek"
+msgstr ""
+
+#: includes/currencies.php:70
+msgid "Algerian dinar"
+msgstr ""
+
+#: includes/filter-functions.php:213 includes/filter-functions.php:261
+#: includes/filter-functions.php:323 includes/filter-functions.php:342
+#: includes/filter-functions.php:361 includes/filter-functions.php:380
+#: includes/filter-functions.php:399 includes/filter-functions.php:418
+#: includes/filter-functions.php:437 includes/filter-functions.php:456
+#: includes/filter-functions.php:475 includes/filter-functions.php:494
+#: includes/filter-functions.php:613 includes/filter-functions.php:751
+#: includes/filter-functions.php:763 includes/filter-functions.php:775
+#: includes/filter-functions.php:788 includes/filter-functions.php:800
+#: includes/filter-functions.php:812 includes/filter-functions.php:824
+#: includes/filter-functions.php:836 includes/filter-functions.php:848
+#: includes/filter-functions.php:860 includes/menu-scripts-styles.php:184
+msgid "All"
+msgstr ""
+
+#: includes/post-types.php:100
+msgid "All Categories"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:124
+msgid ""
+"All current listings settings will be overwritten and CAN NOT BE UNDONE! Are "
+"you sure you want to import settings?"
+msgstr ""
+
+#: includes/post-types.php:26 includes/admin-pages/famiau-all-listings.php:15
+msgid "All Listings"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:46 includes/menu-scripts-styles.php:47
+msgid "All Listings (Admin)"
+msgstr ""
+
+#: includes/backend.php:853
+msgid "All settings imported. Reloading the page..."
+msgstr ""
+
+#: includes/backend.php:92
+msgid "All settings saved"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:351
+msgid "Allow sellers to create an account on the \"Automotive Account\" page"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:150
+msgid "Allows displaying new listing form when not logged"
+msgstr ""
+
+#: includes/currencies.php:34
+msgid "Angolan kwanza"
+msgstr ""
+
+#: includes/shortcodes.php:92
+#: bakery-page-builder/vc_templates/famiau_map_listings.php:95
+#: bakery-page-builder/vc_templates/famiau_filter_dropdown.php:79
+msgid "Any Model"
+msgstr ""
+
+#: includes/filter-functions.php:968 includes/backend.php:308
+#: includes/backend.php:537
+msgid "Approve"
+msgstr ""
+
+#: includes/filter-functions.php:154
+msgid "Approved"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:123
+msgid "Are you sure you want to change status to approved?"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:122
+msgid "Are you sure you want to change status to deleted?"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:121
+msgid "Are you sure you want to change status to reviewing (waiting)?"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:190
+msgid ""
+"Are you sure you want to change this listing status to sold? YOU CAN NOT BE "
+"UNDONE!"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:189
+msgid "Are you sure you want to delete this listing? YOU CAN NOT BE UNDONE!"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:118
+msgid "Are you sure you want to remove this make?"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:117
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: includes/currencies.php:35
+msgid "Argentine peso"
+msgstr ""
+
+#: includes/currencies.php:32
+msgid "Armenian dram"
+msgstr ""
+
+#: includes/currencies.php:37
+msgid "Aruban florin"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:31
+#: bakery-page-builder/vc-map-shortcodes.php:80
+#: bakery-page-builder/vc-map-shortcodes.php:131
+#: bakery-page-builder/vc-map-shortcodes.php:201
+msgid "AU"
+msgstr ""
+
+#: includes/post-types.php:99
+msgid "AU Categories"
+msgstr ""
+
+#: includes/post-types.php:21 includes/post-types.php:22
+#: includes/post-types.php:65
+msgid "AU Listings"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:36 includes/menu-scripts-styles.php:37
+msgid "AU Settings"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:199
+msgid "AU: Add Listing Form"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:78
+msgid "AU: Car Listings"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:29
+msgid "AU: Filter Dropdown"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:129
+msgid "AU: Map Listings"
+msgstr ""
+
+#: includes/currencies.php:36
+msgid "Australian dollar"
+msgstr ""
+
+#: includes/meta-boxes.php:225
+msgid "Auto"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:288
+msgid "auto"
+msgstr ""
+
+#: includes/filter-functions.php:263 includes/filter-functions.php:727
+#: includes/frontend.php:352 includes/helpers.php:835 includes/helpers.php:1161
+#: includes/helpers.php:1394 templates/content-single-famiau.php:35
+msgid "Automatic"
+msgstr ""
+
+#: fami-automotive.php:363 fami-automotive.php:370
+msgid "Automotive"
+msgstr ""
+
+#: includes/account-page.php:24 includes/backend.php:113
+#: includes/admin-pages/famiau.php:13 templates/account/famiau-account.php:18
+msgid "Automotive Account"
+msgstr ""
+
+#: includes/meta-boxes.php:153
+msgid "Automotive Information"
+msgstr ""
+
+#: includes/listing-page.php:22
+msgid "Automotive Listing"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Automotive listing is a plugin for car dealership, auto dealer, automotive "
+"websites and business or any corporate websites in this field."
+msgstr ""
+
+#: includes/post-types.php:66
+msgid "Automotive listings"
+msgstr ""
+
+#: includes/backend.php:110
+msgid "Automotive Page"
+msgstr ""
+
+#: includes/backend.php:116
+msgid "Automotive Term Page"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:896
+msgid "AutoPlay"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:906
+msgid "Autoplay Speed"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:910
+msgid "Autoplay speed in milliseconds"
+msgstr ""
+
+#: includes/currencies.php:38
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: includes/currencies.php:49
+msgid "Bahamian dollar"
+msgstr ""
+
+#: includes/currencies.php:43
+msgid "Bahraini dinar"
+msgstr ""
+
+#: includes/currencies.php:41
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: includes/currencies.php:40
+msgid "Barbadian dollar"
+msgstr ""
+
+#: templates/content-single-famiau.php:124
+msgid "Basic Info"
+msgstr ""
+
+#: includes/currencies.php:54
+msgid "Belarusian ruble"
+msgstr ""
+
+#: includes/currencies.php:53
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: includes/currencies.php:55
+msgid "Belize dollar"
+msgstr ""
+
+#: includes/currencies.php:45
+msgid "Bermudian dollar"
+msgstr ""
+
+#: includes/currencies.php:51
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: includes/currencies.php:50
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/filter-functions.php:777 includes/filter-functions.php:1063
+#: includes/meta-boxes.php:232 templates/content-single-famiau.php:132
+#: templates/account/famiau-my-listings-table.php:96
+#: templates/listing-form/famiau-listing-form.php:73
+msgid "Body"
+msgstr ""
+
+#: includes/currencies.php:47
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:674
+#: bakery-page-builder/famiauVisualComposer.php:693
+#: bakery-page-builder/famiauVisualComposer.php:713
+#: bakery-page-builder/famiauVisualComposer.php:733
+#: bakery-page-builder/famiauVisualComposer.php:753
+#: bakery-page-builder/famiauVisualComposer.php:773
+#: bakery-page-builder/famiauVisualComposer.php:793
+msgid "Boostrap settings"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:185
+msgid "Border Zoom"
+msgstr ""
+
+#: includes/currencies.php:39
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: includes/currencies.php:52
+msgid "Botswana pula"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:941
+msgid "Bottom"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:939
+msgid "Bottom Left"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:183
+msgid "Bounce In"
+msgstr ""
+
+#: includes/currencies.php:48
+msgid "Brazilian real"
+msgstr ""
+
+#: includes/currencies.php:46
+msgid "Brunei dollar"
+msgstr ""
+
+#: includes/currencies.php:42
+msgid "Bulgarian lev"
+msgstr ""
+
+#: includes/currencies.php:122
+msgid "Burmese kyat"
+msgstr ""
+
+#: includes/currencies.php:44
+msgid "Burundian franc"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:70
+#: bakery-page-builder/vc-map-shortcodes.php:191
+#: bakery-page-builder/vc-map-shortcodes.php:213
+msgid "Button Text"
+msgstr ""
+
+#: includes/frontend.php:360 includes/helpers.php:1402
+msgid "Call Us"
+msgstr ""
+
+#: includes/currencies.php:105
+msgid "Cambodian riel"
+msgstr ""
+
+#: includes/backend.php:857
+msgid "Can't find moved file!!!"
+msgstr ""
+
+#: includes/backend.php:862
+msgid "Can't move file!!!"
+msgstr ""
+
+#: includes/currencies.php:56
+msgid "Canadian dollar"
+msgstr ""
+
+#: includes/currencies.php:65
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: fami-automotive.php:531 includes/filter-functions.php:1038
+#: includes/meta-boxes.php:339
+#: templates/account/famiau-my-listings-table.php:71
+msgid "Car Address"
+msgstr ""
+
+#: includes/helpers.php:11
+msgid "Car Bodies"
+msgstr ""
+
+#: includes/filter-functions.php:389
+#: bakery-page-builder/vc-map-shortcodes.php:14
+msgid "Car Body"
+msgstr ""
+
+#: fami-automotive.php:559 fami-automotive.php:561 includes/meta-boxes.php:403
+#: includes/meta-boxes.php:408 templates/content-single-famiau.php:296
+#: templates/listing-form/famiau-listing-form.php:290
+msgid "Car Description"
+msgstr ""
+
+#: includes/meta-boxes.php:160
+#: templates/listing-form/famiau-listing-form.php:21
+msgid "Car Details"
+msgstr ""
+
+#: includes/meta-boxes.php:359
+msgid "Car Features"
+msgstr ""
+
+#: templates/archive-famiau.php:58
+msgid "Car For Sale"
+msgstr ""
+
+#: templates/content-single-famiau.php:112
+msgid "Car Info"
+msgstr ""
+
+#: fami-automotive.php:538 includes/meta-boxes.php:344
+msgid "Car Latitude"
+msgstr ""
+
+#: fami-automotive.php:529 includes/meta-boxes.php:334
+#: templates/listing-form/famiau-listing-form.php:231
+msgid "Car Location"
+msgstr ""
+
+#: fami-automotive.php:547 includes/meta-boxes.php:350
+msgid "Car Longitude"
+msgstr ""
+
+#: includes/meta-boxes.php:438
+msgid "Car Price"
+msgstr ""
+
+#: fami-automotive.php:428 includes/meta-boxes.php:199
+msgid "Car Status"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:829
+#: bakery-page-builder/famiauVisualComposer.php:853
+#: bakery-page-builder/famiauVisualComposer.php:868
+#: bakery-page-builder/famiauVisualComposer.php:883
+#: bakery-page-builder/famiauVisualComposer.php:898
+#: bakery-page-builder/famiauVisualComposer.php:911
+#: bakery-page-builder/famiauVisualComposer.php:927
+#: bakery-page-builder/famiauVisualComposer.php:944
+#: bakery-page-builder/famiauVisualComposer.php:956
+#: bakery-page-builder/famiauVisualComposer.php:969
+#: bakery-page-builder/famiauVisualComposer.php:985
+#: bakery-page-builder/famiauVisualComposer.php:998
+#: bakery-page-builder/famiauVisualComposer.php:1011
+#: bakery-page-builder/famiauVisualComposer.php:1023
+#: bakery-page-builder/famiauVisualComposer.php:1035
+#: bakery-page-builder/famiauVisualComposer.php:1047
+#: bakery-page-builder/famiauVisualComposer.php:1059
+#: bakery-page-builder/famiauVisualComposer.php:1071
+#: bakery-page-builder/famiauVisualComposer.php:1083
+msgid "Carousel settings"
+msgstr ""
+
+#: includes/post-types.php:115
+msgid "Categories list"
+msgstr ""
+
+#: includes/post-types.php:116
+msgid "Categories list navigation"
+msgstr ""
+
+#: includes/currencies.php:110
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:940
+msgid "Center"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:68
+msgid "center"
+msgstr ""
+
+#: includes/currencies.php:184
+msgid "Central African CFA franc"
+msgstr ""
+
+#: includes/filter-functions.php:216 includes/filter-functions.php:707
+#: includes/meta-boxes.php:205 includes/backend.php:334
+#: includes/backend.php:567 includes/frontend.php:348 includes/helpers.php:815
+#: includes/helpers.php:1390 templates/content-famiau.php:31
+#: templates/content-famiau-grid.php:44
+#: templates/account/famiau-my-listings-table.php:19
+msgid "Certified Used"
+msgstr ""
+
+#: includes/currencies.php:187
+msgid "CFP franc"
+msgstr ""
+
+#: includes/backend.php:18 includes/backend.php:756 includes/backend.php:780
+msgid "Cheating!? Huh?"
+msgstr ""
+
+#: includes/currencies.php:59
+msgid "Chilean peso"
+msgstr ""
+
+#: includes/currencies.php:60
+msgid "Chinese yuan"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:263 includes/admin-pages/famiau.php:265
+msgid "Choose a currency&hellip;"
+msgstr ""
+
+#: includes/post-types.php:110
+msgid "Choose from the most used"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:952
+msgid "Circle"
+msgstr ""
+
+#: includes/filter-functions.php:525 includes/filter-functions.php:921
+msgid "Clear Filter"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:194
+msgid "Clear Selected"
+msgstr ""
+
+#: includes/filter-functions.php:1093
+#: templates/account/famiau-my-listings-table.php:126
+#, php-format
+msgid "Click %s for video"
+msgstr ""
+
+#: templates/content-single-famiau.php:73
+#, php-format
+msgid "Click %s to view the listing"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:188
+msgid "Collapse Search [-]"
+msgstr ""
+
+#: includes/currencies.php:61
+msgid "Colombian peso"
+msgstr ""
+
+#: includes/filter-functions.php:446 includes/filter-functions.php:826
+#: includes/meta-boxes.php:363 includes/helpers.php:60
+msgid "Comfort"
+msgstr ""
+
+#: templates/content-single-famiau.php:114
+msgid "Comforts"
+msgstr ""
+
+#: includes/currencies.php:106
+msgid "Comorian franc"
+msgstr ""
+
+#: includes/filter-functions.php:227 includes/filter-functions.php:720
+#: bakery-page-builder/vc-map-shortcodes.php:9
+#: bakery-page-builder/vc-map-shortcodes.php:96
+msgid "Condition"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:28
+msgid "Condition*"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:453
+msgid "Configure the gallery and description when the seller adds a new car"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:485
+msgid "Configure the prices and description when the seller adds a new car"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:469
+msgid "Configure the videos and description when the seller adds a new car"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:74
+msgid "Confirm Password"
+msgstr ""
+
+#: includes/currencies.php:57
+msgid "Congolese franc"
+msgstr ""
+
+#: templates/content-single-famiau.php:326
+msgid "Contact Dealer"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:12
+msgid "Contact Form"
+msgstr ""
+
+#: includes/currencies.php:62
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: includes/currencies.php:88
+msgid "Croatian kuna"
+msgstr ""
+
+#: includes/currencies.php:63
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: includes/currencies.php:64
+msgid "Cuban peso"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:11
+msgid "Currencies"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:260
+msgid "Currency"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:285
+msgid "Currency Position"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:102
+msgid "Custom"
+msgstr ""
+
+#: fami-automotive.php:570
+msgid "Custom Description Groups"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:250
+msgid "Custom width contain in this screen."
+msgstr ""
+
+#: includes/currencies.php:66
+msgid "Czech koruna"
+msgstr ""
+
+#: includes/currencies.php:68
+msgid "Danish krone"
+msgstr ""
+
+#: templates/account/famiau-navigation.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: includes/frontend.php:661 includes/frontend.php:733
+msgid "Database error!!!"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:297
+msgid "Decimal Separator"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:661
+#: bakery-page-builder/famiauVisualComposer.php:840
+msgid "Default"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:284
+msgid "default"
+msgstr ""
+
+#: templates/listing-shorting.php:8
+msgid "Default shorting"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:426
+msgid "Default years range for filter"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:150
+msgid "Default Zoom Level"
+msgstr ""
+
+#: includes/filter-functions.php:969 includes/backend.php:309
+#: includes/backend.php:538 templates/account/famiau-my-listings-table.php:54
+msgid "Delete"
+msgstr ""
+
+#: includes/filter-functions.php:155
+msgid "Deleted"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:206
+msgid "Description"
+msgstr ""
+
+#: includes/helpers.php:709
+msgid "Description label"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:209
+msgid "Description show before the form"
+msgstr ""
+
+#: includes/helpers.php:715
+msgid "Description value"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:211
+#: bakery-page-builder/famiauVisualComposer.php:233
+#: bakery-page-builder/famiauVisualComposer.php:244
+#: bakery-page-builder/famiauVisualComposer.php:252
+#: bakery-page-builder/famiauVisualComposer.php:268
+#: bakery-page-builder/famiauVisualComposer.php:293
+#: bakery-page-builder/famiauVisualComposer.php:302
+#: bakery-page-builder/famiauVisualComposer.php:307
+#: bakery-page-builder/famiauVisualComposer.php:333
+#: bakery-page-builder/famiauVisualComposer.php:349
+msgid "Design Options"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:241
+msgid "Disable Background in this screen."
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:239
+msgid "Disable Background?"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:221
+msgid ""
+"Display a mobile-specific filter instead of responsive on the actual mobile "
+"device"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:81
+msgid "Display the car listings"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:32
+msgid "Display the listing filter as dropdowns"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1010
+msgid "Distance( or space) between 2 item"
+msgstr ""
+
+#: includes/currencies.php:67
+msgid "Djiboutian franc"
+msgstr ""
+
+#: includes/currencies.php:69
+msgid "Dominican peso"
+msgstr ""
+
+#: templates/content-single-famiau.php:152
+msgid "Doors Number"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:966
+msgid "Dots"
+msgstr ""
+
+#: includes/filter-functions.php:408 includes/filter-functions.php:753
+#: includes/filter-functions.php:1068 includes/meta-boxes.php:239
+#: includes/helpers.php:20 templates/content-single-famiau.php:188
+#: bakery-page-builder/vc-map-shortcodes.php:15
+#: templates/account/famiau-my-listings-table.php:101
+#: templates/listing-form/famiau-listing-form.php:126
+msgid "Drive"
+msgstr ""
+
+#: includes/currencies.php:185
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: includes/post-types.php:105
+msgid "Edit Category"
+msgstr ""
+
+#: includes/post-types.php:30
+msgid "Edit Listing"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:173
+msgid "Effect"
+msgstr ""
+
+#: includes/currencies.php:71
+msgid "Egyptian pound"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:263
+msgid "Em (em)"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:61
+msgid "Email address"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:211
+msgid "Enable Filter On Mobile"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:225
+msgid "Enable Instant Filter"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:238
+msgid "Enable Lazy Load"
+msgstr ""
+
+#: fami-automotive.php:508 includes/filter-functions.php:699
+#: includes/filter-functions.php:1066 includes/meta-boxes.php:281
+#: templates/content-single-famiau.php:165
+#: templates/account/famiau-my-listings-table.php:99
+#: templates/listing-form/famiau-listing-form.php:105
+msgid "Engine"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:85 includes/admin-pages/famiau.php:500
+msgid "Enqueue Scripts"
+msgstr ""
+
+#: includes/helpers.php:16
+msgid "Enter a car body name"
+msgstr ""
+
+#: includes/helpers.php:66 includes/helpers.php:76 includes/helpers.php:86
+#: includes/helpers.php:96 includes/helpers.php:106 includes/helpers.php:116
+msgid "Enter a feature"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:402
+msgid "Enter a fuel type"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:191
+#: bakery-page-builder/vc_templates/famiau_map_listings.php:133
+msgid "Enter a location"
+msgstr ""
+
+#: includes/helpers.php:137
+msgid "Enter a suggestions"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:369
+msgid "Enter an make/manufacturer"
+msgstr ""
+
+#: includes/helpers.php:34 includes/helpers.php:44
+msgid "Enter color name"
+msgstr ""
+
+#: includes/helpers.php:25
+msgid "Enter drive"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:317
+msgid "Enter font size."
+msgstr ""
+
+#: fami-automotive.php:608 includes/helpers.php:682
+msgid "Enter group name"
+msgstr ""
+
+#: fami-automotive.php:542
+msgid "Enter latitude"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:301
+msgid "Enter letter spacing."
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:318
+msgid "Enter line height."
+msgstr ""
+
+#: fami-automotive.php:551
+msgid "Enter longitude"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:299
+msgid "Enter Seller's Notes"
+msgstr ""
+
+#: fami-automotive.php:535
+msgid "Enter the car address"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:56
+#: bakery-page-builder/vc-map-shortcodes.php:177
+msgid "Enter the price list, each price per line"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:509
+#, php-format
+msgid ""
+"Enter your Google Map API key. <a href=\"%s\" target=\"_blank\">How to get?"
+"</a>"
+msgstr ""
+
+#: includes/meta-boxes.php:369 includes/helpers.php:70
+msgid "Entertainment"
+msgstr ""
+
+#: includes/filter-functions.php:465 includes/filter-functions.php:838
+#: templates/content-single-famiau.php:231
+msgid "Entertainments"
+msgstr ""
+
+#: includes/currencies.php:72
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: includes/currencies.php:73
+msgid "Ethiopian birr"
+msgstr ""
+
+#: includes/currencies.php:74
+msgid "Euro"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:326
+msgid "Example Contact Form 7 Template:"
+msgstr ""
+
+#: includes/backend.php:803
+msgid "Exceeded filesize limit."
+msgstr ""
+
+#: includes/filter-functions.php:127 includes/filter-functions.php:598
+#: includes/menu-scripts-styles.php:187
+msgid "Expand Search [+]"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:554 includes/admin-pages/famiau.php:556
+msgid "Export Settings"
+msgstr ""
+
+#: includes/filter-functions.php:351 includes/filter-functions.php:1069
+#: templates/content-single-famiau.php:140
+#: bakery-page-builder/vc-map-shortcodes.php:16
+#: templates/account/famiau-my-listings-table.php:102
+#: templates/listing-form/famiau-listing-form.php:136
+msgid "Exterior Color"
+msgstr ""
+
+#: includes/filter-functions.php:790 includes/meta-boxes.php:246
+#: includes/helpers.php:29
+msgid "Exterior Colors"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:204
+#: bakery-page-builder/famiauVisualComposer.php:360
+msgid "Extra class name"
+msgstr ""
+
+#: includes/currencies.php:76
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: includes/sidebars.php:9
+msgid "Fami AU Listings Sidebar"
+msgstr ""
+
+#: includes/sidebars.php:18
+msgid "Fami AU Single Sidebar"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:26
+msgid "Fami Automotive"
+msgstr ""
+
+#. Name of the plugin
+msgid "Fami Automotive Listings"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:126
+msgid "Fami Automotive Settings"
+msgstr ""
+
+#: includes/roles.php:20
+msgid "Fami Automotive User"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:128
+msgid ""
+"Fami Buy Together is a plugin for WooCommerce that allows you to create one "
+"or more products that come with your main product. Make it more convenient "
+"for buyers and stimulate buying more of your products. Buyers just need a "
+"single click to buy all the products included."
+msgstr ""
+
+#. Author of the plugin
+msgid "Fami Themes"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:101
+msgid "Featured"
+msgstr ""
+
+#: includes/post-types.php:37
+msgid "Featured Image"
+msgstr ""
+
+#: includes/filter-functions.php:994
+#: templates/account/famiau-my-listings-table.php:38
+msgid "Features"
+msgstr ""
+
+#: includes/currencies.php:75
+msgid "Fijian dollar"
+msgstr ""
+
+#: includes/shortcodes.php:25
+msgid "Filter"
+msgstr ""
+
+#: includes/post-types.php:45
+msgid "Filter listing list"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:37
+msgid "Find A Car"
+msgstr ""
+
+#: includes/filter-functions.php:522 includes/filter-functions.php:918
+msgid "Find Cars"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:532
+msgid "Force Email AJAX"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:327
+msgid "Form: "
+msgstr ""
+
+#: includes/filter-functions.php:242 includes/filter-functions.php:897
+#: includes/shortcodes.php:115
+msgid "From Year"
+msgstr ""
+
+#: templates/account/famiau-account-content.php:23
+#, php-format
+msgid "From your account dashboard you can view/manage your %s, edit %s."
+msgstr ""
+
+#: includes/filter-functions.php:658 includes/filter-functions.php:690
+msgid "From {from} to {to}"
+msgstr ""
+
+#: includes/filter-functions.php:656 includes/filter-functions.php:688
+msgid "From {min}"
+msgstr ""
+
+#: includes/filter-functions.php:332 includes/filter-functions.php:765
+#: templates/content-single-famiau.php:169
+#: bakery-page-builder/vc-map-shortcodes.php:13
+msgid "Fuel"
+msgstr ""
+
+#: templates/content-single-famiau.php:161
+msgid "Fuel - Engine"
+msgstr ""
+
+#: includes/meta-boxes.php:308
+#: templates/listing-form/famiau-listing-form.php:218
+msgid "Fuel Consumption"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:218
+#: templates/listing-form/famiau-listing-form.php:221
+#: templates/listing-form/famiau-listing-form.php:223
+msgid "Fuel consumption"
+msgstr ""
+
+#: includes/meta-boxes.php:192
+#: templates/listing-form/famiau-listing-form.php:95
+msgid "Fuel Type"
+msgstr ""
+
+#: includes/filter-functions.php:1065
+#: templates/account/famiau-my-listings-table.php:98
+msgid "Fuel type"
+msgstr ""
+
+#: includes/meta-boxes.php:302 templates/content-single-famiau.php:173
+#: templates/listing-form/famiau-listing-form.php:204
+msgid "Fueling System"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:204
+#: templates/listing-form/famiau-listing-form.php:207
+#: templates/listing-form/famiau-listing-form.php:209
+msgid "Fueling system"
+msgstr ""
+
+#: includes/meta-boxes.php:430
+msgid "Gallery"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:26
+msgid "Gallery Upload Description"
+msgstr ""
+
+#: includes/currencies.php:82
+msgid "Gambian dalasi"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:10
+msgid "General Settings"
+msgstr ""
+
+#: includes/currencies.php:78
+msgid "Georgian lari"
+msgstr ""
+
+#: includes/currencies.php:80
+msgid "Ghana cedi"
+msgstr ""
+
+#: includes/currencies.php:81
+msgid "Gibraltar pound"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:505
+msgid "GMap API Key"
+msgstr ""
+
+#: fami-automotive.php:606 includes/helpers.php:680
+msgid "Group Name"
+msgstr ""
+
+#: includes/currencies.php:84
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: includes/currencies.php:79
+msgid "Guernsey pound"
+msgstr ""
+
+#: includes/currencies.php:83
+msgid "Guinean franc"
+msgstr ""
+
+#: includes/currencies.php:85
+msgid "Guyanese dollar"
+msgstr ""
+
+#: includes/currencies.php:89
+msgid "Haitian gourde"
+msgstr ""
+
+#: includes/filter-functions.php:516 includes/filter-functions.php:881
+msgid "Have Images"
+msgstr ""
+
+#: templates/account/famiau-account-content.php:22
+#, php-format
+msgid "Hello %s (not %s? %s)"
+msgstr ""
+
+#: includes/filter-functions.php:1093 templates/content-single-famiau.php:73
+#: templates/account/famiau-my-listings-table.php:126
+msgid "here"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:286
+msgid "hidden"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:215
+#: bakery-page-builder/famiauVisualComposer.php:366
+msgid "Hidden ID"
+msgstr ""
+
+#: includes/currencies.php:87
+msgid "Honduran lempira"
+msgstr ""
+
+#: includes/currencies.php:86
+msgid "Hong Kong dollar"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/fami_themes"
+msgstr ""
+
+#: includes/currencies.php:90
+msgid "Hungarian forint"
+msgstr ""
+
+#: includes/helpers.php:167
+msgid "I agree with storaging of my data by this website."
+msgstr ""
+
+#: includes/currencies.php:98
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:206
+#: bakery-page-builder/famiauVisualComposer.php:362
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:174
+msgid "Image Effect"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:164
+msgid "Image Group"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:557
+msgid "Import Settings"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:88
+msgid "Import/Export Settings"
+msgstr ""
+
+#: includes/currencies.php:94
+msgid "Indian rupee"
+msgstr ""
+
+#: includes/currencies.php:91
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:290
+msgid "inherit"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:984
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:289
+msgid "initial"
+msgstr ""
+
+#: includes/post-types.php:41
+msgid "Insert into listing"
+msgstr ""
+
+#: includes/filter-functions.php:370 includes/filter-functions.php:1070
+#: templates/content-single-famiau.php:144
+#: bakery-page-builder/vc-map-shortcodes.php:17
+#: templates/account/famiau-my-listings-table.php:103
+#: templates/listing-form/famiau-listing-form.php:146
+msgid "Interior Color"
+msgstr ""
+
+#: includes/filter-functions.php:802 includes/meta-boxes.php:253
+#: includes/helpers.php:39
+msgid "Interior Colors"
+msgstr ""
+
+#: includes/backend.php:326 includes/backend.php:559
+msgid "Invalid author!"
+msgstr ""
+
+#: includes/frontend.php:480
+msgid "Invalid condition!"
+msgstr ""
+
+#: includes/backend.php:279 includes/backend.php:508
+msgid "Invalid listing status"
+msgstr ""
+
+#: includes/frontend.php:487
+msgid "Invalid maker!"
+msgstr ""
+
+#: includes/frontend.php:497
+msgid "Invalid model!"
+msgstr ""
+
+#: includes/backend.php:788
+msgid "Invalid parameters."
+msgstr ""
+
+#: includes/frontend.php:503
+msgid "Invalid year!"
+msgstr ""
+
+#: includes/currencies.php:96
+msgid "Iranian rial"
+msgstr ""
+
+#: includes/currencies.php:97
+msgid "Iranian toman"
+msgstr ""
+
+#: includes/currencies.php:95
+msgid "Iraqi dinar"
+msgstr ""
+
+#: includes/meta-boxes.php:46
+msgid "Is Featured"
+msgstr ""
+
+#: includes/helpers.php:722
+msgid "Is heading description"
+msgstr ""
+
+#: includes/currencies.php:92
+msgid "Israeli new shekel"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1022
+#: bakery-page-builder/famiauVisualComposer.php:1034
+#: bakery-page-builder/famiauVisualComposer.php:1046
+#: bakery-page-builder/famiauVisualComposer.php:1058
+#: bakery-page-builder/famiauVisualComposer.php:1070
+#: bakery-page-builder/famiauVisualComposer.php:1082
+msgid "item(s)"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:682
+#: bakery-page-builder/famiauVisualComposer.php:702
+msgid "Items per row on Desktop"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:722
+msgid "Items per row on landscape tablet"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:762
+#: bakery-page-builder/famiauVisualComposer.php:782
+msgid "Items per row on Mobile"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:742
+msgid "Items per row on portrait tablet"
+msgstr ""
+
+#: includes/currencies.php:100
+msgid "Jamaican dollar"
+msgstr ""
+
+#: includes/currencies.php:102
+msgid "Japanese yen"
+msgstr ""
+
+#: includes/currencies.php:99
+msgid "Jersey pound"
+msgstr ""
+
+#: includes/currencies.php:101
+msgid "Jordanian dinar"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:69
+msgid "justify"
+msgstr ""
+
+#: includes/currencies.php:111
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/currencies.php:103
+msgid "Kenyan shilling"
+msgstr ""
+
+#: includes/currencies.php:109
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: includes/currencies.php:104
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: includes/filter-functions.php:696
+msgid "L"
+msgstr ""
+
+#: includes/helpers.php:707
+msgid "Label"
+msgstr ""
+
+#: includes/currencies.php:112
+msgid "Lao kip"
+msgstr ""
+
+#: fami-automotive.php:544 fami-automotive.php:553 includes/meta-boxes.php:345
+#: includes/meta-boxes.php:351 bakery-page-builder/vc-map-shortcodes.php:139
+#: bakery-page-builder/vc-map-shortcodes.php:146
+#: templates/listing-form/famiau-listing-form.php:268
+msgid "Lat and Long Finder"
+msgstr ""
+
+#: includes/filter-functions.php:1044
+#: templates/account/famiau-my-listings-table.php:77
+#: templates/listing-form/famiau-listing-form.php:247
+msgid "Latitude"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:85
+msgid "Layout"
+msgstr ""
+
+#: includes/currencies.php:113
+msgid "Lebanese pound"
+msgstr ""
+
+#: includes/currencies.php:435
+msgid "Left"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:66
+msgid "left"
+msgstr ""
+
+#: includes/currencies.php:437
+msgid "Left with space"
+msgstr ""
+
+#: includes/currencies.php:116
+msgid "Lesotho loti"
+msgstr ""
+
+#: includes/filter-functions.php:657 includes/filter-functions.php:689
+msgid "Less than {max}"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:299
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/currencies.php:115
+msgid "Liberian dollar"
+msgstr ""
+
+#: includes/currencies.php:117
+msgid "Libyan dinar"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:15 includes/admin-pages/famiau.php:394
+msgid "List Of Fuel Types"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:14 includes/admin-pages/famiau.php:361
+msgid "List Of Makes"
+msgstr ""
+
+#: includes/post-types.php:23
+msgid "Listing Archives"
+msgstr ""
+
+#: includes/post-types.php:24
+msgid "Listing Attributes"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:322
+msgid "Listing Contact Form"
+msgstr ""
+
+#: includes/roles.php:52
+msgid "Listing Contact Mobile"
+msgstr ""
+
+#: includes/filter-functions.php:993
+#: templates/account/famiau-my-listings-table.php:37
+msgid "Listing Info"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:154
+msgid "Listing Page"
+msgstr ""
+
+#: includes/filter-functions.php:161
+msgid "Listing Status"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:166
+msgid "Listing Term Page"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:189
+msgid "Listing Term Text"
+msgstr ""
+
+#: templates/content-single-famiau.php:72
+msgid "Listing title: "
+msgstr ""
+
+#: templates/account/famiau-account-content.php:23
+msgid "listings"
+msgstr ""
+
+#: includes/post-types.php:43
+msgid "Listings list"
+msgstr ""
+
+#: includes/post-types.php:44
+msgid "Listings list navigation"
+msgstr ""
+
+#: includes/frontend.php:974 includes/frontend.php:991
+msgid "Listings Navigation"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:518
+msgid "Load GMap JS"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:528
+msgid ""
+"Load Gmap JS on frontend? GMap JS is required if you want to display the map "
+"on the listing details page. If you are sure GMap is loaded via the theme or "
+"other plugin, you can turn it off."
+msgstr ""
+
+#: templates/account/famiau-form-login.php:33
+msgid "Log in"
+msgstr ""
+
+#: templates/account/famiau-account-content.php:22
+msgid "Log out"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:16
+msgid "Login"
+msgstr ""
+
+#: templates/account/famiau-navigation.php:38
+msgid "Logout"
+msgstr ""
+
+#: includes/filter-functions.php:1045
+#: templates/account/famiau-my-listings-table.php:78
+#: templates/listing-form/famiau-listing-form.php:258
+msgid "Longitude"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:982
+msgid "Loop"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:41
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/currencies.php:124
+msgid "Macanese pataca"
+msgstr ""
+
+#: includes/currencies.php:121
+msgid "Macedonian denar"
+msgstr ""
+
+#: includes/filter-functions.php:206 includes/filter-functions.php:613
+#: includes/filter-functions.php:615 includes/meta-boxes.php:164
+#: bakery-page-builder/vc-map-shortcodes.php:10
+msgid "Make"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:34
+msgid "Make*"
+msgstr ""
+
+#: includes/currencies.php:120
+msgid "Malagasy ariary"
+msgstr ""
+
+#: includes/currencies.php:128
+msgid "Malawian kwacha"
+msgstr ""
+
+#: includes/currencies.php:130
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: includes/currencies.php:127
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: includes/filter-functions.php:262 includes/filter-functions.php:726
+#: includes/meta-boxes.php:224 includes/frontend.php:351
+#: includes/helpers.php:834 includes/helpers.php:1160 includes/helpers.php:1393
+#: templates/content-single-famiau.php:34
+msgid "Manual"
+msgstr ""
+
+#: includes/currencies.php:93
+msgid "Manx pound"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:136
+msgid "Map Latitude"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:143
+msgid "Map Longitude"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1006
+msgid "Margin"
+msgstr ""
+
+#: includes/currencies.php:125
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: includes/currencies.php:126
+msgid "Mauritian rupee"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:264
+msgid "Max Height (vh)"
+msgstr ""
+
+#: includes/shortcodes.php:145 bakery-page-builder/vc-map-shortcodes.php:61
+#: bakery-page-builder/vc-map-shortcodes.php:182
+msgid "Max Price"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:265
+msgid "Max Width (vw)"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:437
+msgid "Max Year"
+msgstr ""
+
+#: includes/currencies.php:129
+msgid "Mexican peso"
+msgstr ""
+
+#: fami-automotive.php:503 includes/filter-functions.php:1064
+#: includes/meta-boxes.php:272 templates/content-single-famiau.php:136
+#: templates/account/famiau-my-listings-table.php:97
+#: templates/listing-form/famiau-listing-form.php:83
+msgid "Mileage"
+msgstr ""
+
+#: templates/listing-shorting.php:14
+msgid "Mileage: highest first"
+msgstr ""
+
+#: templates/listing-shorting.php:13
+msgid "Mileage: lowest first"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:909
+#: bakery-page-builder/famiauVisualComposer.php:996
+msgid "milliseconds"
+msgstr ""
+
+#: includes/shortcodes.php:144
+msgid "Min Price"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:431
+msgid "Min Year"
+msgstr ""
+
+#: includes/filter-functions.php:613 includes/meta-boxes.php:174
+#: includes/meta-boxes.php:183 bakery-page-builder/vc-map-shortcodes.php:11
+msgid "Model"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:40
+msgid "Model*"
+msgstr ""
+
+#: includes/helpers.php:621
+msgid "Models"
+msgstr ""
+
+#: includes/currencies.php:119
+msgid "Moldovan leu"
+msgstr ""
+
+#: includes/currencies.php:123
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: includes/currencies.php:118
+msgid "Moroccan dirham"
+msgstr ""
+
+#: includes/currencies.php:131
+msgid "Mozambican metical"
+msgstr ""
+
+#: templates/account/famiau-my-listings.php:10
+msgid "My Listing"
+msgstr ""
+
+#: templates/account/famiau-navigation.php:27
+msgid "My Listings"
+msgstr ""
+
+#: includes/currencies.php:132
+msgid "Namibian dollar"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:924
+msgid "Navigation"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:935
+msgid "Navigation style"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:949
+msgid "Navigation type"
+msgstr ""
+
+#: includes/currencies.php:136
+msgid "Nepalese rupee"
+msgstr ""
+
+#: includes/currencies.php:33
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: includes/filter-functions.php:214 includes/filter-functions.php:705
+#: includes/meta-boxes.php:203 includes/backend.php:332
+#: includes/backend.php:565 includes/frontend.php:346 includes/helpers.php:813
+#: includes/helpers.php:1388 templates/content-famiau.php:29
+#: templates/content-famiau-grid.php:42
+#: templates/account/famiau-my-listings-table.php:17
+msgid "New"
+msgstr ""
+
+#: includes/post-types.php:103
+msgid "New Category Name"
+msgstr ""
+
+#: includes/post-types.php:29
+msgid "New Listing"
+msgstr ""
+
+#: includes/backend.php:440 includes/backend.php:694
+#, php-format
+msgid "New listing created: %s (#%s)"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:197
+msgid "New Listings Must Be Moderated"
+msgstr ""
+
+#: includes/currencies.php:173
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: includes/currencies.php:137
+msgid "New Zealand dollar"
+msgstr ""
+
+#: includes/currencies.php:134
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: includes/currencies.php:133
+msgid "Nigerian naira"
+msgstr ""
+
+#: includes/filter-functions.php:870 includes/meta-boxes.php:49
+#: bakery-page-builder/famiauVisualComposer.php:863
+#: bakery-page-builder/famiauVisualComposer.php:878
+#: bakery-page-builder/famiauVisualComposer.php:893
+#: bakery-page-builder/famiauVisualComposer.php:920
+#: bakery-page-builder/famiauVisualComposer.php:962
+#: bakery-page-builder/famiauVisualComposer.php:979
+msgid "No"
+msgstr ""
+
+#: includes/post-types.php:114
+msgid "No categories"
+msgstr ""
+
+#: fami-automotive.php:619
+msgid ""
+"No custom description group. Click \"Add New Group\" or \"Copy From Another "
+"Group\""
+msgstr ""
+
+#: includes/backend.php:797
+msgid "No file sent."
+msgstr ""
+
+#: includes/helpers.php:1013
+msgid "No makes"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:120 includes/menu-scripts-styles.php:186
+msgid "No model to select"
+msgstr ""
+
+#: includes/backend.php:228
+msgid "No result is found. Please try again with other filter criteria."
+msgstr ""
+
+#: includes/helpers.php:1136
+msgid "No User To Select"
+msgstr ""
+
+#: includes/filter-functions.php:1095
+#: templates/account/famiau-my-listings-table.php:128
+msgid "No video"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:177
+msgid "None"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:65
+msgid "none"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:180
+msgid "Normal Effect"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:181
+msgid "Normal Effect Dark Color"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:182
+msgid "Normal Effect Light Color"
+msgstr ""
+
+#: includes/currencies.php:107
+msgid "North Korean won"
+msgstr ""
+
+#: includes/currencies.php:135
+msgid "Norwegian krone"
+msgstr ""
+
+#: includes/post-types.php:113
+msgid "Not Found"
+msgstr ""
+
+#: includes/post-types.php:35
+msgid "Not found"
+msgstr ""
+
+#: includes/post-types.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:305
+msgid "Number Of Decimals"
+msgstr ""
+
+#: includes/meta-boxes.php:296
+#: templates/listing-form/famiau-listing-form.php:192
+msgid "Number Of Doors"
+msgstr ""
+
+#: includes/meta-boxes.php:290
+#: templates/listing-form/famiau-listing-form.php:181
+msgid "Number Of Seats"
+msgstr ""
+
+#: includes/currencies.php:138
+msgid "Omani rial"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:178
+msgid "Opacity Effect"
+msgstr ""
+
+#: templates/content-single-famiau.php:116
+msgid "Other Features"
+msgstr ""
+
+#: includes/meta-boxes.php:30 includes/meta-boxes.php:393
+#: templates/content-single-famiau.php:275
+msgid "Others"
+msgstr ""
+
+#: includes/helpers.php:110
+msgid "Others Features"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:281
+msgid "Overflow"
+msgstr ""
+
+#: includes/currencies.php:143
+msgid "Pakistani rupee"
+msgstr ""
+
+#: includes/currencies.php:139
+msgid "Panamanian balboa"
+msgstr ""
+
+#: includes/currencies.php:141
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: includes/currencies.php:146
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: includes/post-types.php:101
+msgid "Parent Category"
+msgstr ""
+
+#: includes/post-types.php:102
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/post-types.php:25
+msgid "Parent Listing:"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:26
+#: templates/account/famiau-form-login.php:69
+msgid "Password"
+msgstr ""
+
+#: includes/frontend.php:845
+msgid "Passwords do not match!!!"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:261
+msgid "Percent (%)"
+msgstr ""
+
+#: templates/account/famiau-navigation.php:31
+msgid "Personal Information"
+msgstr ""
+
+#: includes/currencies.php:140
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: includes/currencies.php:142
+msgid "Philippine peso"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1009
+msgid "Pixel"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:262
+msgid "Pixel (px)"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:184
+msgid "Plus Zoom"
+msgstr ""
+
+#: includes/currencies.php:144
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: includes/post-types.php:111
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/post-types.php:19
+msgctxt "Post Type General Name"
+msgid "AU Listings"
+msgstr ""
+
+#: includes/post-types.php:20
+msgctxt "Post Type Singular Name"
+msgid "AU Listing"
+msgstr ""
+
+#: includes/currencies.php:77
+msgid "Pound sterling"
+msgstr ""
+
+#: fami-automotive.php:498 includes/filter-functions.php:314
+#: includes/filter-functions.php:667 includes/meta-boxes.php:444
+#: bakery-page-builder/vc-map-shortcodes.php:12
+msgid "Price"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:49
+#: bakery-page-builder/vc-map-shortcodes.php:170
+msgid "Price List"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:60
+#: bakery-page-builder/vc-map-shortcodes.php:181
+msgid "Price Select Text"
+msgstr ""
+
+#: templates/listing-shorting.php:12
+msgid "Price: highest first"
+msgstr ""
+
+#: templates/listing-shorting.php:11
+msgid "Price: lower first"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:28
+msgid "Prices Description"
+msgstr ""
+
+#: includes/currencies.php:147
+msgid "Qatari riyal"
+msgstr ""
+
+#: fami-automotive.php:48
+msgid "Read more"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:100
+msgid "Recent"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:49
+#: templates/account/famiau-form-login.php:82
+#: templates/account/famiau-form-login.php:82
+msgid "Register"
+msgstr ""
+
+#: fami-automotive.php:513 includes/filter-functions.php:1071
+#: includes/meta-boxes.php:316
+#: templates/account/famiau-my-listings-table.php:104
+#: templates/listing-form/famiau-listing-form.php:156
+msgid "Registered"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:37
+msgid "Remember me"
+msgstr ""
+
+#: includes/post-types.php:39
+msgid "Remove featured image"
+msgstr ""
+
+#: fami-automotive.php:615 includes/helpers.php:689
+msgid "Remove This Group"
+msgstr ""
+
+#: includes/filter-functions.php:967 includes/backend.php:307
+#: includes/backend.php:536
+msgid "Review"
+msgstr ""
+
+#: includes/filter-functions.php:153
+msgid "Reviewing"
+msgstr ""
+
+#: includes/currencies.php:436
+msgid "Right"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:67
+msgid "right"
+msgstr ""
+
+#: includes/currencies.php:438
+msgid "Right with space"
+msgstr ""
+
+#: includes/currencies.php:148
+msgid "Romanian leu"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:658
+#: bakery-page-builder/famiauVisualComposer.php:837
+msgid "Rows space"
+msgstr ""
+
+#: includes/currencies.php:150
+msgid "Russian ruble"
+msgstr ""
+
+#: includes/currencies.php:151
+msgid "Rwandan franc"
+msgstr ""
+
+#: includes/currencies.php:163
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: includes/filter-functions.php:484 includes/filter-functions.php:850
+#: includes/meta-boxes.php:375 includes/helpers.php:80
+#: templates/content-single-famiau.php:113
+msgid "Safety"
+msgstr ""
+
+#: includes/currencies.php:158
+msgid "Saint Helena pound"
+msgstr ""
+
+#: includes/currencies.php:183
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: includes/currencies.php:152
+msgid "Saudi riyal"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:574
+msgid "Save All Settings"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:179
+msgid "Scale Effect"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:287
+msgid "scroll"
+msgstr ""
+
+#: includes/filter-functions.php:926
+#: bakery-page-builder/vc-map-shortcodes.php:71
+#: bakery-page-builder/vc-map-shortcodes.php:192
+#: bakery-page-builder/vc_templates/famiau_map_listings.php:136
+#: bakery-page-builder/vc_templates/famiau_filter_dropdown.php:124
+msgid "Search"
+msgstr ""
+
+#: includes/post-types.php:112
+msgid "Search Categories"
+msgstr ""
+
+#: includes/post-types.php:34
+msgid "Search Listings"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:158
+msgid "Search Options"
+msgstr ""
+
+#: includes/filter-functions.php:427 includes/filter-functions.php:814
+msgid "Seat"
+msgstr ""
+
+#: includes/meta-boxes.php:381 includes/helpers.php:90
+#: templates/content-single-famiau.php:245
+msgid "Seats"
+msgstr ""
+
+#: templates/content-single-famiau.php:148
+msgid "Seats Number"
+msgstr ""
+
+#: includes/backend.php:135 includes/backend.php:251 includes/backend.php:480
+#: includes/backend.php:752 includes/frontend.php:20 includes/frontend.php:65
+#: includes/frontend.php:260 includes/frontend.php:406
+#: includes/frontend.php:628 includes/frontend.php:700
+#: includes/frontend.php:768 includes/frontend.php:796
+#: includes/frontend.php:834
+msgid "Security check error"
+msgstr ""
+
+#: includes/backend.php:24
+msgid "Security check error!"
+msgstr ""
+
+#: includes/backend.php:774
+msgid "Security check error!!!"
+msgstr ""
+
+#: includes/shortcodes.php:249 includes/menu-scripts-styles.php:119
+msgid "Select"
+msgstr ""
+
+#: includes/meta-boxes.php:234
+#: templates/listing-form/famiau-listing-form.php:75
+msgid "Select Body"
+msgstr ""
+
+#: includes/meta-boxes.php:202 includes/helpers.php:809
+#: includes/helpers.php:830
+msgid "Select Car Condition"
+msgstr ""
+
+#: includes/meta-boxes.php:241
+#: templates/listing-form/famiau-listing-form.php:128
+msgid "Select Drive"
+msgstr ""
+
+#: includes/meta-boxes.php:248
+#: templates/listing-form/famiau-listing-form.php:138
+msgid "Select Exterior Color"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:42
+#: bakery-page-builder/vc-map-shortcodes.php:163
+msgid "Select Filters"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:341
+msgid "Select font family."
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:342
+msgid "Select font styling."
+msgstr ""
+
+#: fami-automotive.php:424 includes/meta-boxes.php:194
+#: templates/listing-form/famiau-listing-form.php:97
+msgid "Select Fuel Type"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:319
+msgid "Select heading color."
+msgstr ""
+
+#: includes/shortcodes.php:247 includes/shortcodes.php:248
+msgid "Select Images"
+msgstr ""
+
+#: includes/meta-boxes.php:255
+#: templates/listing-form/famiau-listing-form.php:148
+msgid "Select Interior Color"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:562
+msgid "Select json file:"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:107
+msgid "Select Listings"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:115
+msgid "Select listings"
+msgstr ""
+
+#: fami-automotive.php:416 includes/meta-boxes.php:80
+msgid "Select Make"
+msgstr ""
+
+#: includes/helpers.php:1015
+msgid "Select make"
+msgstr ""
+
+#: fami-automotive.php:420 includes/meta-boxes.php:186
+msgid "Select Model"
+msgstr ""
+
+#: includes/menu-scripts-styles.php:185
+msgid "Select model"
+msgstr ""
+
+#: includes/meta-boxes.php:106 includes/helpers.php:965
+#: bakery-page-builder/vc_templates/famiau_map_listings.php:70
+#: bakery-page-builder/vc_templates/famiau_filter_dropdown.php:50
+msgid "Select Option"
+msgstr ""
+
+#: fami-automotive.php:45
+msgid "Select options"
+msgstr ""
+
+#: includes/helpers.php:908
+msgid "Select Page"
+msgstr ""
+
+#: includes/filter-functions.php:152
+msgid "Select Status"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:316
+msgid "Select text alignment."
+msgstr ""
+
+#: includes/meta-boxes.php:223
+msgid "Select Transmission"
+msgstr ""
+
+#: includes/helpers.php:1138
+msgid "Select User"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:273
+msgid "Select Your Car Features"
+msgstr ""
+
+#: includes/shortcodes.php:12
+msgid "Select Your Vehicle"
+msgstr ""
+
+#: includes/helpers.php:131
+msgid "Seller's Note Suggestions"
+msgstr ""
+
+#: templates/content-single-famiau.php:305
+msgid "Seller's Notes"
+msgstr ""
+
+#: includes/filter-functions.php:264 includes/filter-functions.php:728
+#: includes/meta-boxes.php:226 includes/frontend.php:353
+#: includes/helpers.php:836 includes/helpers.php:1162 includes/helpers.php:1395
+#: templates/content-single-famiau.php:36
+msgid "Semi Automatic"
+msgstr ""
+
+#: includes/post-types.php:108
+msgid "Separate categories with commas"
+msgstr ""
+
+#: includes/currencies.php:149
+msgid "Serbian dinar"
+msgstr ""
+
+#: includes/post-types.php:38
+msgid "Set featured image"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:304
+msgid "Set Your Asking Price"
+msgstr ""
+
+#: includes/currencies.php:154
+msgid "Seychellois rupee"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:202
+msgid "Show add new listing form"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:140
+msgid "Show Add New Listing Form Without Logged In"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:926
+msgid "Show buton 'next' and 'prev' buttons."
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:968
+msgid "Show dots buttons."
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:132
+msgid "Show listings on Google map"
+msgstr ""
+
+#: includes/helpers.php:1267
+msgid "Show number"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:175
+msgid "Show Term Agreement On Add New Listing Page"
+msgstr ""
+
+#: includes/currencies.php:159
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: includes/currencies.php:157
+msgid "Singapore dollar"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:993
+msgid "Slide Speed"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:997
+msgid "Slide speed in milliseconds"
+msgstr ""
+
+#: includes/filter-functions.php:970 includes/backend.php:310
+#: templates/account/famiau-my-listings-table.php:55
+msgid "Sold"
+msgstr ""
+
+#: includes/currencies.php:153
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: includes/currencies.php:160
+msgid "Somali shilling"
+msgstr ""
+
+#: includes/frontend.php:212
+msgid "Sorry, no results"
+msgstr ""
+
+#: includes/backend.php:818
+msgid "Sorry, uploaded file is too large!!!"
+msgstr ""
+
+#: templates/listing-shorting.php:42
+msgid "Sort by:"
+msgstr ""
+
+#: includes/currencies.php:189
+msgid "South African rand"
+msgstr ""
+
+#: includes/currencies.php:108
+msgid "South Korean won"
+msgstr ""
+
+#: includes/currencies.php:162
+msgid "South Sudanese pound"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:953
+msgid "Square"
+msgstr ""
+
+#: includes/currencies.php:114
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: includes/filter-functions.php:995 templates/content-single-famiau.php:128
+#: templates/account/famiau-my-listings-table.php:39
+msgid "Status"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:22
+msgid "Step 1"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:274
+msgid "Step 2"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:281
+msgid "Step 3"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:286
+msgid "Step 4"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:291
+msgid "Step 5"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:300
+msgid "Step 6"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:305
+msgid "Step 7"
+msgstr ""
+
+#: includes/frontend.php:598
+msgid "Submit listing failed, please try again later"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:214
+#: templates/listing-form/famiau-listing-form.php:323
+msgid "Submit New Listing"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:216
+msgid "Submit new listing text"
+msgstr ""
+
+#: includes/currencies.php:155
+msgid "Sudanese pound"
+msgstr ""
+
+#: includes/currencies.php:161
+msgid "Surinamese dollar"
+msgstr ""
+
+#: includes/currencies.php:165
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: includes/currencies.php:156
+msgid "Swedish krona"
+msgstr ""
+
+#: includes/currencies.php:58
+msgid "Swiss franc"
+msgstr ""
+
+#: includes/currencies.php:164
+msgid "Syrian pound"
+msgstr ""
+
+#: includes/currencies.php:167
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: includes/currencies.php:174
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: includes/post-types.php:97
+msgctxt "Taxonomy General Name"
+msgid "AU Categories"
+msgstr ""
+
+#: includes/post-types.php:98
+msgctxt "Taxonomy Singular Name"
+msgid "AU Category"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:62
+msgid "Text align"
+msgstr ""
+
+#: includes/currencies.php:166
+msgid "Thai baht"
+msgstr ""
+
+#: includes/frontend.php:595
+msgid ""
+"Thank you for submitting the listing, we will review your listing quickly."
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:65
+msgid "The displayed title for listing"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1031
+msgid ""
+"The items on desktop (Screen resolution of device >= 1200px and < 1500px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1019
+msgid "The items on desktop (Screen resolution of device >= 1500px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1043
+msgid "The items on desktop (Screen resolution of device >= 992px < 1200px )"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1079
+msgid "The items on mobile (Screen resolution of device < 480px)"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1067
+msgid ""
+"The items on mobile landscape(Screen resolution of device >=480px and < "
+"768px)"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:1055
+msgid "The items on tablet (Screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: includes/backend.php:352
+#, php-format
+msgid "The listing already exist. Current listing status \"%s\""
+msgstr ""
+
+#: includes/backend.php:272 includes/backend.php:501 includes/frontend.php:638
+#: includes/frontend.php:710
+msgid "The listing does not exist or has been deleted"
+msgstr ""
+
+#: includes/frontend.php:672
+msgid "The listing has been deleted."
+msgstr ""
+
+#: includes/frontend.php:747
+msgid "The listing has been sold."
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:120
+msgid "The number of listings to display"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:827
+msgid "The number of rows which are shown on block"
+msgstr ""
+
+#: includes/backend.php:585
+msgid "The product already exist."
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:153
+msgid "The value is between 1 and 15. The default is 4."
+msgstr ""
+
+#: includes/admin-pages/famiau.php:289
+msgid "Thousand Separator"
+msgstr ""
+
+#: bakery-page-builder/vc-map-shortcodes.php:36
+#: bakery-page-builder/vc-map-shortcodes.php:157
+#: templates/listing-form/famiau-listing-form.php:61
+msgid "Title"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:163
+msgid "Title image"
+msgstr ""
+
+#: includes/filter-functions.php:243 includes/filter-functions.php:898
+#: includes/shortcodes.php:116
+msgid "To Year"
+msgstr ""
+
+#: includes/currencies.php:170
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:938
+msgid "Top Right"
+msgstr ""
+
+#: fami-automotive.php:439 includes/filter-functions.php:274
+#: includes/filter-functions.php:740 includes/filter-functions.php:1067
+#: includes/meta-boxes.php:220 templates/content-single-famiau.php:180
+#: templates/content-single-famiau.php:184
+#: bakery-page-builder/vc-map-shortcodes.php:18
+#: templates/account/famiau-my-listings-table.php:100
+#: templates/listing-form/famiau-listing-form.php:116
+msgid "Transmission"
+msgstr ""
+
+#: includes/currencies.php:145
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: includes/currencies.php:172
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: includes/currencies.php:169
+msgid "Tunisian dinar"
+msgstr ""
+
+#: includes/currencies.php:171
+msgid "Turkish lira"
+msgstr ""
+
+#: includes/currencies.php:168
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:542
+msgid ""
+"Turns on if contact form does not send emails via AJAX. This feature will "
+"force enqueue Contact Form 7 scripts on the detailed listing page. Note: The "
+"\"Contact Form 7\" plugin must be installed and activate"
+msgstr ""
+
+#: includes/currencies.php:176
+msgid "Ugandan shilling"
+msgstr ""
+
+#: includes/currencies.php:175
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:258
+msgid "Unit"
+msgstr ""
+
+#: includes/currencies.php:29
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: includes/currencies.php:177
+msgid "United States (US) dollar"
+msgstr ""
+
+#: includes/backend.php:808
+msgid "Unknown errors."
+msgstr ""
+
+#: includes/post-types.php:106
+msgid "Update Category"
+msgstr ""
+
+#: includes/post-types.php:31
+msgid "Update Listing"
+msgstr ""
+
+#: includes/backend.php:297 includes/backend.php:526
+msgid "Update listing status failed. Please try again later."
+msgstr ""
+
+#: includes/admin-pages/famiau.php:565
+msgid "Upload File"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:280
+msgid "Upload Photos"
+msgstr ""
+
+#: includes/post-types.php:42
+msgid "Uploaded to this listing"
+msgstr ""
+
+#: includes/currencies.php:178
+msgid "Uruguayan peso"
+msgstr ""
+
+#: includes/post-types.php:40
+msgid "Use as featured image"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:331
+msgid "Use font family from the theme."
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:325
+msgid "Use theme default font family?"
+msgstr ""
+
+#: includes/filter-functions.php:215 includes/filter-functions.php:706
+#: includes/meta-boxes.php:204 includes/backend.php:333
+#: includes/backend.php:566 includes/frontend.php:347 includes/helpers.php:814
+#: includes/helpers.php:1389 templates/content-famiau.php:30
+#: templates/content-famiau-grid.php:43
+#: templates/account/famiau-my-listings-table.php:18
+msgid "Used"
+msgstr ""
+
+#: includes/filter-functions.php:140
+msgid "User"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:54
+msgid "Username"
+msgstr ""
+
+#: templates/account/famiau-form-login.php:20
+msgid "Username or email address"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:185 includes/admin-pages/famiau.php:207
+msgid "Users must agree to the terms on add new listing page"
+msgstr ""
+
+#: includes/currencies.php:179
+msgid "Uzbekistani som"
+msgstr ""
+
+#: includes/helpers.php:713
+msgid "Value"
+msgstr ""
+
+#: includes/currencies.php:182
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: fami-automotive.php:523 includes/meta-boxes.php:326
+#: templates/listing-form/famiau-listing-form.php:168
+#: templates/listing-form/famiau-listing-form.php:171
+#: templates/listing-form/famiau-listing-form.php:173
+msgid "Vehicle identification number"
+msgstr ""
+
+#: includes/currencies.php:180
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:866
+msgid "Vertical Mode"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:881
+msgid "verticalSwiping"
+msgstr ""
+
+#: templates/content-single-famiau.php:30
+msgid "Video"
+msgstr ""
+
+#: includes/meta-boxes.php:416
+msgid "Video And Gallery"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:27
+msgid "Video Links Description"
+msgstr ""
+
+#: includes/meta-boxes.php:422
+msgid "Video URL"
+msgstr ""
+
+#: includes/currencies.php:181
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: includes/post-types.php:107
+msgid "View Category"
+msgstr ""
+
+#: includes/post-types.php:32
+msgid "View Listing"
+msgstr ""
+
+#: includes/post-types.php:33
+msgid "View Listings"
+msgstr ""
+
+#: fami-automotive.php:519 includes/filter-functions.php:1072
+#: includes/meta-boxes.php:325
+#: templates/account/famiau-my-listings-table.php:105
+#: templates/listing-form/famiau-listing-form.php:168
+msgid "VIN"
+msgstr ""
+
+#: bakery-page-builder/famiauVisualComposer.php:285
+msgid "visible"
+msgstr ""
+
+#: includes/currencies.php:186
+msgid "West African CFA franc"
+msgstr ""
+
+#: includes/filter-functions.php:503 includes/filter-functions.php:862
+#: includes/meta-boxes.php:387 includes/helpers.php:100
+#: templates/content-single-famiau.php:261
+msgid "Windows"
+msgstr ""
+
+#: includes/backend.php:552
+msgid "WooCommerce is not installed or not activated."
+msgstr ""
+
+#: includes/backend.php:826
+msgid "Wrong file extension!!!"
+msgstr ""
+
+#: includes/backend.php:846
+msgid "Wrong file format!!!"
+msgstr ""
+
+#: includes/filter-functions.php:254 includes/filter-functions.php:910
+msgid "Year"
+msgstr ""
+
+#: fami-automotive.php:432 includes/meta-boxes.php:213
+msgid "Year Of Manufacture"
+msgstr ""
+
+#: templates/listing-form/famiau-listing-form.php:46
+msgid "Year*"
+msgstr ""
+
+#: templates/listing-shorting.php:9
+msgid "Year: newest first"
+msgstr ""
+
+#: templates/listing-shorting.php:10
+msgid "Year: oldest first"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:16 includes/admin-pages/famiau.php:425
+msgid "Years Range"
+msgstr ""
+
+#: includes/currencies.php:188
+msgid "Yemeni rial"
+msgstr ""
+
+#: includes/filter-functions.php:869 includes/meta-boxes.php:51
+#: bakery-page-builder/famiauVisualComposer.php:242
+#: bakery-page-builder/famiauVisualComposer.php:328
+#: bakery-page-builder/famiauVisualComposer.php:862
+#: bakery-page-builder/famiauVisualComposer.php:877
+#: bakery-page-builder/famiauVisualComposer.php:892
+#: bakery-page-builder/famiauVisualComposer.php:921
+#: bakery-page-builder/famiauVisualComposer.php:963
+#: bakery-page-builder/famiauVisualComposer.php:978
+msgid "Yes"
+msgstr ""
+
+#: includes/frontend.php:398 includes/frontend.php:620
+#: includes/frontend.php:692
+msgid "You are not authorized to do this!"
+msgstr ""
+
+#: includes/admin-pages/famiau.php:329
+msgid ""
+"You can copy this template the form editor of Contact Form 7 to use or edit "
+"it at your own discretion"
+msgstr ""
+
+#: includes/frontend.php:717
+msgid "You can't change this listing status!!!"
+msgstr ""
+
+#: includes/frontend.php:645
+msgid "You can't delete this listing!!!"
+msgstr ""
+
+#: templates/account/famiau-my-listings-table.php:149
+msgid "You do not have any listings, click on add new button to add listing"
+msgstr ""
+
+#: includes/backend.php:141 includes/backend.php:257 includes/backend.php:486
+msgid "You do not have enough authority to do this!!!"
+msgstr ""
+
+#: includes/frontend.php:816 includes/frontend.php:877
+msgid "You have successfully logged in, reloading the page"
+msgstr ""
+
+#: includes/frontend.php:864
+msgid "You have successfully registered your new account."
+msgstr ""
+
+#: includes/frontend.php:471
+msgid "You must accept our terms & conditions"
+msgstr ""
+
+#: includes/frontend.php:391
+msgid "You must login to do this."
+msgstr ""
+
+#: includes/admin-pages/famiau.php:325
+msgid ""
+"You need to install and activate the \"Contact Form 7\" plugin to use this "
+"function. In the form, add \"[textarea famiau-content class: famiau-hidden]"
+"\" to submit the listing content. In the email template, add \"[famiau-"
+"content]\". By default, if one of the components is missing, it will be "
+"added at the end."
+msgstr ""
+
+#: templates/listing-form/famiau-upload-photos.php:10
+msgid "You need to login to upload images"
+msgstr ""
+
+#: templates/account/famiau-account-content.php:40
+msgid ""
+"Your account is limited to this page, please sign in with the appropriate "
+"account or sign up for a new one."
+msgstr ""
+
+#: templates/account/famiau-account-content.php:23
+msgid "your password and account details"
+msgstr ""
+
+#: includes/meta-boxes.php:424
+msgid "Youtube or Vimeo video URL"
+msgstr ""
+
+#: includes/currencies.php:190
+msgid "Zambian kwacha"
+msgstr ""

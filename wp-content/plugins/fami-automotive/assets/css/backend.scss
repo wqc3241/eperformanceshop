@@ -1,0 +1,729 @@
+.famiau-admin-page-content-wrap {
+  * {
+    box-sizing: border-box;
+  }
+  .famiau-inner-wrapper {
+    background-color: #fff;
+    padding: 15px;
+    display: inline-block;
+    width: 100%;
+  }
+  .famiau-switch {
+    margin: 0;
+    width: 60px !important;
+    min-width: 60px;
+  }
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.famiau-hidden {
+  display: none !important;
+}
+
+.famiau-sep {
+  width: 100%;
+  display: inline-block;
+  height: 1px;
+  line-height: 1px;
+  overflow: hidden;
+  background-color: #dedede;
+  clear: both;
+  margin: 10px auto;
+}
+
+.famiau-box-shadow {
+  display: table;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  &:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  }
+}
+
+.famiau-button-primary, .famiau-button, .famiau-button-warning, .famiau-btn {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 26px;
+  height: 28px;
+  margin: 0;
+  padding: 0 10px 1px;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  -webkit-appearance: none;
+  border-radius: 3px;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+
+.famiau-button-primary {
+  background: #0085ba;
+  border-color: #0073aa #006799 #006799;
+  box-shadow: 0 1px 0 #006799;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+  &:hover, &:focus {
+    background: #008ec2;
+    border-color: #006799;
+    color: #fff;
+  }
+}
+
+.famiau-button-warning {
+  background: #ba0000;
+  border-color: #aa0000 #990000 #990000;
+  box-shadow: 0 1px 0 #990000;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #990000, 1px 0 1px #990000, 0 1px 1px #990000, -1px 0 1px #990000;
+  &:hover, &:focus {
+    background: #c20000;
+    border-color: #990000;
+    color: #fff;
+  }
+}
+
+.famiau-button {
+  color: #555;
+  border-color: #ccc;
+  background: #f7f7f7;
+  box-shadow: 0 1px 0 #ccc;
+  vertical-align: top;
+  &:hover, &:focus {
+    background: #fafafa;
+    border-color: #999;
+    color: #23282d;
+  }
+}
+
+.famiau-hidden {
+  display: none !important;
+}
+
+.famiau-lbs-group {
+  display: inline-block;
+  margin-top: 10px;
+  > label {
+    border: 1px solid #dedede;
+    padding: 5px 7px;
+    margin: 0 10px 10px 0;
+    line-height: 20px;
+    cursor: pointer;
+    display: inline-block;
+    width: auto;
+    &:hover {
+      background-color: #f7f7f7;
+    }
+  }
+}
+
+.woocommerce_options_panel label.famiau-secondary-lb, .famiau-secondary-lb {
+  display: inline-block;
+  float: none;
+  margin: 0 15px 5px 0;
+  width: auto;
+}
+
+/* The switch - the box around the slider */
+.famiau-switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  input {
+    display: none;
+  }
+  .famiau-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+    &.round {
+      border-radius: 34px;
+      &:before {
+        border-radius: 50%;
+      }
+    }
+    &:before {
+      position: absolute;
+      content: "";
+      height: 26px;
+      width: 26px;
+      left: 4px;
+      bottom: 4px;
+      background-color: white;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+  }
+  input:checked + .famiau-slider {
+    background-color: #2196F3;
+    &:before {
+      -webkit-transform: translateX(26px);
+      -ms-transform: translateX(26px);
+      transform: translateX(26px);
+    }
+  }
+  input:focus + .famiau-slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+}
+
+/* Tabs */
+.famiau-tabs {
+  margin-bottom: 30px;
+  .nav-tab-wrapper {
+    position: relative;
+  }
+  .nav-tab {
+    margin-left: 0;
+    margin-top: .5em;
+    margin-right: .5em;
+    &.famiau-nav-tab-hidden-item {
+      visibility: hidden;
+      opacity: 0;
+      position: absolute;
+    }
+  }
+  .nav-tab-show-more {
+    width: 36px;
+    height: 36px;
+    float: left;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 24px;
+    background: #e5e5e5;
+    color: #555;
+    margin-left: 0;
+    margin-top: .5em;
+    margin-right: 0;
+    display: none;
+    position: relative;
+    &.famiau-show {
+      display: block;
+    }
+  }
+  .famiau-more-nav-tabs {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    z-index: 3;
+    padding: 0;
+    background: #e5e5e5;
+    display: none;
+    .nav-tab-clone {
+      width: 100%;
+      margin: 0 0 .5em 0;
+      border: none;
+      padding: 0 10px;
+      text-align: left;
+    }
+    &.active {
+      display: block;
+    }
+  }
+}
+
+.famiau-tab-content {
+  display: none;
+  &.tab-content-active {
+    display: block;
+  }
+  textarea {
+    height: 300px;
+    width: 680px;
+    max-width: 100%;
+  }
+}
+
+.famiau-admin-page-content-wrap {
+  input[type=text], input[type=number], input[type=password], textarea, select {
+    width: 400px;
+    max-width: 100%;
+    height: 30px;
+    padding: 5px;
+  }
+  .description {
+    display: block;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #777;
+    font-style: italic;
+    clear: both;
+  }
+  .famiau-input-group {
+    display: inline-block;
+  }
+  .famiau-w-50 {
+    width: 50px !important;
+    max-width: 100%;
+  }
+  .famiau-w-100 {
+    width: 100px !important;
+    max-width: 100%;
+  }
+  .famiau-w-150 {
+    width: 150px !important;
+    max-width: 100%;
+  }
+}
+
+/* Addresses list */
+.famiau-add-make-form {
+  .famiau-input-wrap {
+    width: 550px !important;
+    .famiau-add-make-input {
+      width: 100%;
+    }
+  }
+}
+
+.famiau-makes-list-wrap, .famiau-items-list-wrap {
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 15px;
+  .famiau-make-item, .famiau-item {
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 50%;
+    float: left;
+    .famiau-item-inner {
+      border-bottom: 1px dotted #eaeaea;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 40px;
+    }
+    .remove-btn {
+      position: absolute;
+      z-index: 1;
+      top: 2px;
+      right: 15px;
+      width: 32px;
+      height: 32px;
+      line-height: 32px;
+      text-align: center;
+      text-decoration: none;
+      color: #333;
+      background-color: #eee;
+      &:hover {
+        color: #fff;
+        background-color: #ff0000;
+      }
+    }
+    .famiau-toggle-edit-sub-item {
+      position: absolute;
+      z-index: 1;
+      top: 2px;
+      right: 50px;
+      width: auto;
+      height: 32px;
+      line-height: 32px;
+      text-align: center;
+      text-decoration: none;
+      color: #333;
+      background-color: #eee;
+      padding: 0 7px;
+      &:hover {
+        background-color: #0085ba;
+        color: #fff;
+      }
+    }
+    form {
+      margin-bottom: 15px;
+    }
+    .famiau-sub-items-list-wrap {
+      display: none;
+      position: absolute;
+      top: auto;
+      left: 0;
+      width: 100%;
+      padding: 0 15px;
+      z-index: 2;
+      .famiau-sub-items-list-inner-wrap {
+        padding: 15px;
+        background-color: #fff;
+        max-height: 500px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        display: block;
+      }
+    }
+    &.famiau-show-sub-list {
+      .famiau-sub-items-list-wrap {
+        display: block;
+      }
+    }
+  }
+}
+
+.famiau-sub-items-list {
+  margin-left: -10px;
+  margin-right: -10px;
+  .famiau-sub-item {
+    position: relative;
+    display: inline-block;
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    .famiau-sub-item-inner {
+      border: 1px solid #eaeaea;
+      line-height: 30px;
+      padding: 0 30px 0 10px;
+    }
+    .famiau-remove-sub-item-btn {
+      position: absolute;
+      z-index: 3;
+      top: 1px;
+      right: 11px;
+      width: 30px;
+      height: 30px;
+      line-height: 28px;
+      text-align: center;
+      text-decoration: none;
+      color: #333;
+      background-color: #eee;
+      &:hover {
+        color: #ff0000;
+      }
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  .famiau-makes-list-wrap {
+    .famiau-make-item {
+      width: 100%;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .famiau-sub-items-list {
+    .famiau-sub-item {
+      width: 100%;
+    }
+  }
+}
+
+.famiau-section {
+  display: inline-block;
+  width: 100%;
+  label {
+    display: inline-block;
+    min-width: 120px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  .famiau-input-wrap {
+    display: inline-block;
+    width: 300px;
+    max-width: 100%;
+  }
+}
+
+.famiau-list-item {
+  .famiau-list-item-inner {
+    margin-bottom: 10px;
+  }
+  .famiau-input-min-max-group {
+    input[type="number"] {
+      width: 100px;
+      margin-right: 5px;
+      margin-bottom: 5px;
+    }
+  }
+}
+
+/* Popup */
+body {
+  .famiau-popup-wrap {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    .famiau-popup-inner {
+      width: 920px;
+      max-width: 100%;
+      margin: 0 auto;
+      padding: 15px;
+      background-color: #fff;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      z-index: 1;
+      transform: translateX(-50%) translateY(-50%);
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      -o-transform: translateX(-50%) translateY(-50%);
+      -ms-transform: translateX(-50%) translateY(-50%);
+    }
+    .famiau-popup-content {
+
+    }
+    .famiau-popup-content-wrap {
+      position: relative;
+    }
+    .famiau-close-popup {
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 2;
+      width: 32px;
+      height: 32px;
+      line-height: 32px;
+      text-align: center;
+      color: #000;
+      background-color: #fff;
+      text-decoration: none;
+      &:hover {
+        color: #ff0000;
+      }
+    }
+    .famiau-popup-title {
+      margin-top: 0;
+    }
+    .famiau-lb {
+      min-width: 100px;
+      margin-right: 7px;
+    }
+    input[type="text"], input[type="number"], input[type="email"], input[type="password"], input[type="tel"] {
+      width: 400px;
+    }
+  }
+  &.famiau-show-popup {
+    .famiau-popup-wrap {
+      display: block;
+    }
+  }
+}
+
+.options_group {
+  &.famiau-desc-group {
+
+  }
+  .famiau-title {
+    padding: 15px 12px;
+  }
+}
+
+.famiau-custom-desc-group-wrap {
+  padding: 12px;
+  box-sizing: border-box;
+  * {
+    box-sizing: border-box;
+  }
+  .famiau-custom-desc-groups-list {
+    margin-top: 30px;
+    .famiau-custom-desc-group {
+      margin-bottom: 10px;
+      padding: 10px;
+      border: 1px solid #dedede;
+      overflow: hidden;
+      background-color: #f9f9f9;
+      .famiau-lb, label {
+        margin: 0 5px 5px 0;
+      }
+    }
+    .famiau-custom-desc-details-list {
+      width: 100%;
+      display: inline-block;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      padding: 10px;
+      border: 1px solid #dedede;
+      background-color: #fff;
+    }
+    .famiau-desc-detail {
+      border: 1px solid #dedede;
+      overflow: hidden;
+      padding: 10px;
+      margin-bottom: 15px;
+      .famiau-row {
+        margin-left: -12px;
+        margin-right: -12px;
+      }
+      .famiau-part-left, .famiau-part-right {
+        padding-left: 12px;
+        padding-right: 12px;
+        margin-bottom: 5px;
+        width: 50%;
+        display: inline-block;
+        float: left;
+      }
+      .famiau-actions-wrap {
+        padding-left: 12px;
+        padding-right: 12px;
+        width: 100%;
+        display: inline-block;
+        float: left;
+        line-height: 30px;
+        .famiau-del-desc-detail-btn {
+          float: right;
+          width: 30px;
+          height: 30px;
+          line-height: 30px;
+          text-align: center;
+          text-decoration: none;
+          color: #333;
+          background-color: #dedede;
+          &:hover {
+            background-color: #c20000;
+            color: #fff;
+          }
+        }
+      }
+      input[type="text"] {
+        width: 100%;
+      }
+      &:hover {
+        background-color: #fbfbfb;
+      }
+      &:last-child {
+        .famiau-actions-wrap {
+          .famiau-sep {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .famiau-custom-desc-group-wrap {
+    .famiau-custom-desc-groups-list {
+      .famiau-desc-detail {
+        .famiau-part-left, .famiau-part-right {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
+
+/* Mega Filter */
+.famiau-filter-group {
+  width: 100%;
+  display: table;
+  .famiau-filter-box-left {
+    display: table-cell;
+    min-width: 200px;
+    width: 200px;
+    vertical-align: middle;
+  }
+  .famiau-filter-box-right {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .famiau-menu {
+    list-style: none;
+    > li {
+      display: inline-block;
+      position: relative;
+      > a {
+        display: inline-block;
+        text-decoration: none;
+        border: 1px solid #dedede;
+        background-color: #fff;
+        padding: 7px 10px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        &.famiau-active-filter {
+          border-color: #0037ff;
+          color: #0037ff;
+        }
+      }
+      .famiau-sub-nav {
+        display: none;
+        position: absolute;
+        left: 0;
+        top: 100%;
+        z-index: 3;
+        min-width: 150px;
+        background-color: #fff;
+        border: 1px solid #dedede;
+        padding: 7px 10px;
+      }
+      .famiau-sub-menu {
+        display: inline-block;
+        width: 100%;
+        > li {
+          margin-bottom: 6px;
+          > a {
+            display: inline-block;
+            width: 100%;
+            text-decoration: none;
+            &.famiau-active-filter {
+              color: #0037ff;
+            }
+          }
+          &:last-child {
+            margin-bottom: 0;
+          }
+        }
+      }
+      &:hover {
+        .famiau-sub-nav {
+          display: block;
+        }
+      }
+    }
+  }
+  .ui-slider-legend {
+    position: relative;
+    .famiau-slider-ruler-step {
+      display: inline-block;
+      position: absolute;
+      top: 0;
+      z-index: 1;
+    }
+  }
+  .famiau-slider-range-wrap {
+    display: inline-block;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+.famiau-results-wrap {
+  margin-top: 30px;
+}
+
+.famiau-listings-table {
+  .famiau-imgs-wrap {
+    img {
+      width: 90px;
+      margin-right: 5px;
+      margin-bottom: 5px;
+    }
+  }
+  .famiau-actions-td {
+    .famiau-action {
+      margin-right: 7px;
+      margin-bottom: 5px;
+    }
+  }
+}
